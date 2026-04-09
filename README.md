@@ -60,30 +60,56 @@ Use this skill when a user asks about:
 
 ## Installation
 
-### Lightweight Install (Skill Only)
+### Using Skills CLI (Recommended)
 
-If you just want the skill without the full source corpus:
-
-```bash
-# Download only the skill file (~88KB)
-curl -sL -H 'Cache-Control: no-cache' "https://raw.githubusercontent.com/zobinHuang/kobe.skill/main/SKILL.md?$(date +%s)" \
-  -o ~/.claude/skills/kobe-mamba-spirit.md
-```
-
-### Full Install (Skill + Source Corpus)
+Install via the [Skills CLI](https://github.com/vercel-labs/skills) — works with Claude Code, Cursor, Copilot, Windsurf, and 40+ coding agents:
 
 ```bash
-# Clone the full repository with all transcripts and analysis
-git clone https://github.com/zobinHuang/kobe.skill.git
+# Install to your current project
+npx skills add zobinHuang/kobe.skill
+
+# Install globally (available across all projects)
+npx skills add zobinHuang/kobe.skill -g
+
+# Install to a specific agent
+npx skills add zobinHuang/kobe.skill -a claude-code
 ```
 
-> **Note:** Audio files (`.mp3`) are excluded via `.gitignore` to keep the repo lightweight (~10MB). Only cleaned transcripts, articles, and metadata are included. If you need to regenerate audio, see the [Contributing](#contributing) section.
+Once installed, type `/kobe` in your coding agent to invoke it directly. The agent also loads it automatically when your conversation matches the skill's trigger conditions.
+
+### Manual Install
+
+<details>
+<summary>Lightweight — Skill file only (~88KB)</summary>
+
+```bash
+mkdir -p ~/.claude/skills/kobe
+curl -sL https://raw.githubusercontent.com/zobinHuang/kobe.skill/main/SKILL.md \
+  -o ~/.claude/skills/kobe/SKILL.md
+```
+
+</details>
+
+<details>
+<summary>Full — Skill + source corpus (~10MB)</summary>
+
+```bash
+# Personal scope (all projects)
+git clone https://github.com/zobinHuang/kobe.skill.git ~/.claude/skills/kobe
+
+# Or project scope (single project)
+git clone https://github.com/zobinHuang/kobe.skill.git .claude/skills/kobe
+```
+
+> Audio files (`.mp3`) are excluded via `.gitignore` to keep the repo lightweight. Only cleaned transcripts, articles, and metadata are included.
+
+</details>
 
 ### Project Structure
 
 ```
 kobe.skill/
-├── SKILL.md              # The synthesized skill (88KB)
+├── SKILL.md              # The skill file (Claude Code reads this)
 ├── analysis.json         # Structured insight analysis (85KB)
 ├── sources.json          # Master source catalog (87 entries)
 ├── README.md

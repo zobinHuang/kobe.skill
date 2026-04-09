@@ -1,3 +1,8 @@
+---
+name: kobe
+description: "Use this skill when users ask about elite performance mindset, work ethic, competitive psychology, leadership under pressure, career transition, fatherhood, creative pursuits, mentorship, or mental health in high-performance environments. Encodes Kobe Bryant's Mamba Mentality philosophy from 62+ primary sources (1996-2020)."
+---
+
 # Kobe Bryant — The Mamba Spirit
 
 > Distilled from 87 primary sources (1996–2025), 62 successfully extracted (221,599 words). 42 verified insights, 6 contradictions, 7 tentative observations.
