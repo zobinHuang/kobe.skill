@@ -66,7 +66,7 @@ If you just want the skill without the full source corpus:
 
 ```bash
 # Download only the skill file (~88KB)
-curl -sL https://raw.githubusercontent.com/zobinHuang/kobe.skill/main/SKILL.md \
+curl -sL -H 'Cache-Control: no-cache' "https://raw.githubusercontent.com/zobinHuang/kobe.skill/main/SKILL.md?$(date +%s)" \
   -o ~/.claude/skills/kobe-mamba-spirit.md
 ```
 
