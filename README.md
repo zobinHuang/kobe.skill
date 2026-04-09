@@ -6,6 +6,8 @@
 
 *"I realized that intimidation didn't really exist if you're in the right frame of mind."*
 
+![kobe.skill poster](docs/poster.png)
+
 </div>
 
 
