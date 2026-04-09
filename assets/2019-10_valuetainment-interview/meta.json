@@ -1,0 +1,18 @@
+{
+  "title": "Patrick Bet-David Valuetainment Interview",
+  "date": "2019-10",
+  "source": "Valuetainment",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=T9GvDekiJ9c",
+  "interviewer": "Patrick Bet-David",
+  "themes": [
+    "work",
+    "mentality",
+    "leadership",
+    "social"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

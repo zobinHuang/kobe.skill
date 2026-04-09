@@ -1,0 +1,1668 @@
+[
+  {
+    "id": 1,
+    "date": "1996-05",
+    "type": "video_interview",
+    "title": "High School Oral Presentation on NBA vs. College",
+    "source": "ESPN Archive",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=5zr6Xm5IjPM",
+    "themes": [
+      "life",
+      "mentality"
+    ],
+    "priority": "high",
+    "asset_slug": "1996-05_high-school-oral-presentation",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 2,
+    "date": "1996-07",
+    "type": "video_interview",
+    "title": "Kobe Bryant 1996 Draft Day Interview & Trade Story",
+    "source": "Yahoo Sports / NBA Archive",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=eIm_byShLm8",
+    "themes": [
+      "mentality",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "1996-07_draft-day-interview",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 3,
+    "date": "1996-10",
+    "type": "video_interview",
+    "title": "Preseason Halftime Interview with Chick Hearn",
+    "source": "Local Broadcast",
+    "interviewer": "Chick Hearn",
+    "url": "https://www.youtube.com/watch?v=s5JFEzp4DZU",
+    "themes": [
+      "work",
+      "mentality"
+    ],
+    "priority": "medium",
+    "asset_slug": "1996-10_chick-hearn-halftime-interview",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 4,
+    "date": "1996-11",
+    "type": "video_interview",
+    "title": "Kobe Bryant on The Tonight Show with Jay Leno",
+    "source": "NBC",
+    "interviewer": "Jay Leno",
+    "url": "https://www.youtube.com/watch?v=GQ_adibumDQ",
+    "themes": [
+      "social",
+      "life"
+    ],
+    "priority": "medium",
+    "asset_slug": "1996-11_tonight-show-jay-leno",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 5,
+    "date": "1996-12",
+    "type": "video_interview",
+    "title": "Postgame Kobe Bryant interview from the 1996 Magic Roundball Classic",
+    "source": "Local Broadcast",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=gczagbYOTRg",
+    "themes": [
+      "work"
+    ],
+    "priority": "low",
+    "asset_slug": "1996-12_magic-roundball-classic",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 6,
+    "date": "1998-02",
+    "type": "video_interview",
+    "title": "1998 NBA All-Star Game Media Availability",
+    "source": "NBCLA",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=ijl_ILResKI",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "1998-02_all-star-game-media",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 7,
+    "date": "1998-03",
+    "type": "text_article",
+    "title": "NEXT Issue Cover Story (Inaugural Issue)",
+    "source": "ESPN The Magazine",
+    "interviewer": "N/A",
+    "url": "https://en.wikipedia.org/wiki/ESPN_The_Magazine",
+    "themes": [
+      "legacy",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "1998-03_espn-magazine-next-cover",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": null
+  },
+  {
+    "id": 8,
+    "date": "1998-04",
+    "type": "text_article",
+    "title": "Show Time! Cover Story",
+    "source": "Sports Illustrated",
+    "interviewer": "N/A",
+    "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+    "themes": [
+      "life",
+      "mentality"
+    ],
+    "priority": "high",
+    "asset_slug": "1998-04_si-show-time-cover",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 9,
+    "date": "2000-04",
+    "type": "text_article",
+    "title": "Boy II Man",
+    "source": "Sports Illustrated",
+    "interviewer": "N/A",
+    "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+    "themes": [
+      "life",
+      "work"
+    ],
+    "priority": "high",
+    "asset_slug": "2000-04_si-boy-ii-man",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 10,
+    "date": "2000-06",
+    "type": "text_article",
+    "title": "No Fear: NBA Championship Run",
+    "source": "Sports Illustrated",
+    "interviewer": "N/A",
+    "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+    "themes": [
+      "mentality",
+      "leadership"
+    ],
+    "priority": "high",
+    "asset_slug": "2000-06_si-no-fear",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 11,
+    "date": "2001-06",
+    "type": "text_article",
+    "title": "Cracking Kobe",
+    "source": "ESPN The Magazine",
+    "interviewer": "N/A",
+    "url": "N/A",
+    "themes": [
+      "mentality",
+      "social"
+    ],
+    "priority": "medium",
+    "asset_slug": "2001-06_espn-cracking-kobe",
+    "extraction_status": "skipped",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "URL is N/A - no online source available"
+  },
+  {
+    "id": 12,
+    "date": "2001-10",
+    "type": "video_interview",
+    "title": "Kobe Bryant on 60 minutes with Charlie Rose",
+    "source": "60 Minutes",
+    "interviewer": "Charlie Rose",
+    "url": "https://www.youtube.com/watch?v=AyXnilND0XM",
+    "themes": [
+      "mentality",
+      "life"
+    ],
+    "priority": "high",
+    "asset_slug": "2001-10_60-minutes-charlie-rose",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 13,
+    "date": "2003-01",
+    "type": "video_interview",
+    "title": "Inaugural Appearance on Jimmy Kimmel Live",
+    "source": "ABC",
+    "interviewer": "Jimmy Kimmel",
+    "url": "https://www.tvmaze.com/shows/1388/jimmy-kimmel-live/episodeguide",
+    "themes": [
+      "social"
+    ],
+    "priority": "low",
+    "asset_slug": "2003-01_jimmy-kimmel-inaugural",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "URL points to episode guide, not video content. No YouTube or transcript source found."
+  },
+  {
+    "id": 14,
+    "date": "2003-03",
+    "type": "text_article",
+    "title": "Roll of a Lifetime",
+    "source": "Sports Illustrated",
+    "interviewer": "N/A",
+    "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "2003-03_si-roll-of-a-lifetime",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 15,
+    "date": "2006-01",
+    "type": "video_interview",
+    "title": "81-Point Game Post-Game Press Conference",
+    "source": "NBA TV / FSN West",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=kEAEKQ8rKCs",
+    "themes": [
+      "work",
+      "mentality",
+      "life"
+    ],
+    "priority": "high",
+    "asset_slug": "2006-01_81-point-game-presser",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 16,
+    "date": "2006-04",
+    "type": "text_article",
+    "title": "The Great Unknown",
+    "source": "Sports Illustrated",
+    "interviewer": "N/A",
+    "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+    "themes": [
+      "life",
+      "mentality"
+    ],
+    "priority": "high",
+    "asset_slug": "2006-04_si-great-unknown",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 17,
+    "date": "2008-02",
+    "type": "text_article",
+    "title": "SLAM Magazine Issue 114 Cover Story",
+    "source": "SLAM Magazine",
+    "interviewer": "N/A",
+    "url": "https://slamonline.com/nba/check-kobe-bryants-iconic-slam-covers/",
+    "themes": [
+      "work",
+      "social"
+    ],
+    "priority": "medium",
+    "asset_slug": "2008-02_slam-magazine-114",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "web_fetch blocked (403), archive.org also blocked"
+  },
+  {
+    "id": 18,
+    "date": "2008-08",
+    "type": "video_interview",
+    "title": "The Redeem Team: Olympic Interviews and Segments",
+    "source": "Netflix (Documentary Feature)",
+    "interviewer": "N/A",
+    "url": "https://apnews.com/article/redeem-team-basketball-hall-of-fame-2bf62c2d995b980bc6b0c7118f656afb",
+    "themes": [
+      "leadership",
+      "social",
+      "work"
+    ],
+    "priority": "high",
+    "asset_slug": "2008-08_redeem-team-olympics",
+    "extraction_status": "success",
+    "extraction_method": "manual_override",
+    "transcript_quality": "manual",
+    "failure_reason": null
+  },
+  {
+    "id": 19,
+    "date": "2009-05",
+    "type": "video_interview",
+    "title": "Kobe Doin Work: Pre-Game Preparation Segment",
+    "source": "ESPN Films",
+    "interviewer": "Spike Lee",
+    "url": "https://www.youtube.com/watch?v=1Fv78gE3u5w",
+    "themes": [
+      "work",
+      "mentality"
+    ],
+    "priority": "high",
+    "asset_slug": "2009-05_kobe-doin-work-pregame",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 20,
+    "date": "2009-05",
+    "type": "video_interview",
+    "title": "Kobe Doin Work: In-Game Triangle Offense Audio",
+    "source": "ESPN Films",
+    "interviewer": "Spike Lee",
+    "url": "https://www.youtube.com/watch?v=1Fv78gE3u5w",
+    "themes": [
+      "leadership",
+      "work"
+    ],
+    "priority": "high",
+    "asset_slug": "2009-05_kobe-doin-work-ingame",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 21,
+    "date": "2009-05",
+    "type": "video_interview",
+    "title": "Kobe Doin Work: Post-Game Reflection Voiceover",
+    "source": "ESPN Films",
+    "interviewer": "Spike Lee",
+    "url": "https://www.youtube.com/watch?v=1Fv78gE3u5w",
+    "themes": [
+      "mentality"
+    ],
+    "priority": "high",
+    "asset_slug": "2009-05_kobe-doin-work-postgame",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 22,
+    "date": "2009-06",
+    "type": "video_interview",
+    "title": "Jobs Not Finished: NBA Finals Game 2 Interview",
+    "source": "NBA Broadcast",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=fY7l2pcxdHM",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "high",
+    "asset_slug": "2009-06_jobs-not-finished",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 23,
+    "date": "2009-06",
+    "type": "text_article",
+    "title": "Satisfaction",
+    "source": "Sports Illustrated",
+    "interviewer": "N/A",
+    "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+    "themes": [
+      "legacy",
+      "social"
+    ],
+    "priority": "medium",
+    "asset_slug": "2009-06_si-satisfaction",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 24,
+    "date": "2009-06",
+    "type": "video_interview",
+    "title": "Jimmy Kimmel Live: Post-Championship Appearance",
+    "source": "ABC",
+    "interviewer": "Jimmy Kimmel",
+    "url": "https://www.tvmaze.com/episodes/121732/jimmy-kimmel-live-2009-06-19-kobe-bryant-derek-fisher",
+    "themes": [
+      "social",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "2009-06_jimmy-kimmel-post-championship",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 25,
+    "date": "2010-03",
+    "type": "text_article",
+    "title": "GQ Cover Story 2010",
+    "source": "GQ Magazine",
+    "interviewer": "N/A",
+    "url": "https://www.ebay.com/itm/226855997809",
+    "themes": [
+      "life",
+      "social"
+    ],
+    "priority": "medium",
+    "asset_slug": "2010-03_gq-cover-2010",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "URL is eBay listing for physical magazine, not article text"
+  },
+  {
+    "id": 26,
+    "date": "2010-06",
+    "type": "video_interview",
+    "title": "Game 7 Post-Game Interview: 2010 NBA Finals",
+    "source": "NBA TV",
+    "interviewer": "Rick Kamla, Brent Barry, Steve Smith",
+    "url": "https://www.youtube.com/watch?v=6okxpJ6z9-o",
+    "themes": [
+      "mentality",
+      "legacy",
+      "work"
+    ],
+    "priority": "high",
+    "asset_slug": "2010-06_game-7-postgame-2010-finals",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 27,
+    "date": "2010-06",
+    "type": "text_article",
+    "title": "Kobes Final Challenge",
+    "source": "Sports Illustrated",
+    "interviewer": "N/A",
+    "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+    "themes": [
+      "legacy",
+      "leadership"
+    ],
+    "priority": "medium",
+    "asset_slug": "2010-06_si-final-challenge",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 28,
+    "date": "2010-08",
+    "type": "video_interview",
+    "title": "Kobe Bryant sits down with Ahmad Rashad",
+    "source": "NBA TV",
+    "interviewer": "Ahmad Rashad",
+    "url": "https://www.youtube.com/watch?v=rgY4zylpl54",
+    "themes": [
+      "leadership",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "2010-08_ahmad-rashad-interview",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 29,
+    "date": "2012-09",
+    "type": "video_interview",
+    "title": "In Depth with Graham Bensinger",
+    "source": "In Depth with Graham Bensinger",
+    "interviewer": "Graham Bensinger",
+    "url": "https://grahambensinger.com/2021/08/03/kobe-bryant/",
+    "themes": [
+      "life",
+      "social",
+      "mentality"
+    ],
+    "priority": "high",
+    "asset_slug": "2012-09_graham-bensinger-in-depth",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 30,
+    "date": "2013-01",
+    "type": "social_post",
+    "title": "Kobe Bryants First Tweet",
+    "source": "Twitter",
+    "interviewer": "N/A",
+    "url": "https://mashable.com/article/kobe-bryan-twitter",
+    "themes": [
+      "social"
+    ],
+    "priority": "low",
+    "asset_slug": "2013-01_first-tweet",
+    "extraction_status": "success",
+    "extraction_method": "manual_override",
+    "transcript_quality": "manual",
+    "failure_reason": null
+  },
+  {
+    "id": 31,
+    "date": "2013-01",
+    "type": "social_post",
+    "title": "Live Tweeting the 81-Point Game Archive",
+    "source": "Twitter",
+    "interviewer": "N/A",
+    "url": "https://www.reddit.com/r/lakers/comments/10ipbjk/kobes_hilarious_tweets_while_watching_his_81point/",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "2013-01_live-tweeting-81-point-game",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "reddit.com blocked"
+  },
+  {
+    "id": 32,
+    "date": "2013-06",
+    "type": "video_interview",
+    "title": "Kobe Bryant Up Close Interview",
+    "source": "Jimmy Kimmel Live",
+    "interviewer": "Jimmy Kimmel",
+    "url": "https://www.youtube.com/watch?v=ORhcTM80e0A",
+    "themes": [
+      "life",
+      "social",
+      "legacy"
+    ],
+    "priority": "high",
+    "asset_slug": "2013-06_jimmy-kimmel-up-close",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 33,
+    "date": "2013-10",
+    "type": "text_article",
+    "title": "The Last Alpha Dog",
+    "source": "Sports Illustrated",
+    "interviewer": "Lee Jenkins",
+    "url": "https://www.si.com/nba/2013/10/16/kobe-bryant-sports-illustrated-cover-los-angeles-lakers",
+    "themes": [
+      "mentality",
+      "leadership"
+    ],
+    "priority": "high",
+    "asset_slug": "2013-10_si-last-alpha-dog",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 34,
+    "date": "2014-08",
+    "type": "text_article",
+    "title": "Father Time and Kobe Inc.",
+    "source": "Sports Illustrated",
+    "interviewer": "Chris Ballard",
+    "url": "https://www.si.com/nba/2014/08/19/kobe-bryant-los-angeles-lakers-sports-illustrated-cover",
+    "themes": [
+      "legacy",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "2014-08_si-father-time-kobe-inc",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 35,
+    "date": "2015-02",
+    "type": "video_interview",
+    "title": "Kobe Bryant and Jimmy Fallon Beer Run Story",
+    "source": "The Tonight Show Starring Jimmy Fallon",
+    "interviewer": "Jimmy Fallon",
+    "url": "https://www.youtube.com/watch?v=ZOXo4Z8josI",
+    "themes": [
+      "social",
+      "life"
+    ],
+    "priority": "medium",
+    "asset_slug": "2015-02_jimmy-fallon-beer-run",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-small",
+    "failure_reason": null
+  },
+  {
+    "id": 36,
+    "date": "2015-02",
+    "type": "video_interview",
+    "title": "Kobe: The Interview with Ahmad Rashad",
+    "source": "NBA TV",
+    "interviewer": "Ahmad Rashad",
+    "url": "https://www.youtube.com/watch?v=yVozBmgq2Fk",
+    "themes": [
+      "leadership",
+      "social",
+      "legacy"
+    ],
+    "priority": "high",
+    "asset_slug": "2015-02_ahmad-rashad-the-interview",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 37,
+    "date": "2015-03",
+    "type": "text_article",
+    "title": "GQ Cover Story: The Real Action is Off The Field",
+    "source": "GQ Magazine",
+    "interviewer": "Chuck Klosterman",
+    "url": "https://www.sportsnet.ca/basketball/nba/five-takeaways-from-kobe-bryants-interview-with-gq/",
+    "themes": [
+      "mentality",
+      "social",
+      "life"
+    ],
+    "priority": "high",
+    "asset_slug": "2015-03_gq-cover-real-action",
+    "extraction_status": "pending_manual",
+    "extraction_method": "manual_override",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "sportsnet.ca blocked"
+  },
+  {
+    "id": 38,
+    "date": "2015-04",
+    "type": "text_article",
+    "title": "The Beautiful Scar",
+    "source": "The Players Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/contributors/kbryant",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "2015-04_players-tribune-beautiful-scar",
+    "extraction_status": "pending_manual",
+    "extraction_method": "manual_override",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "URL points to contributors page, not individual article"
+  },
+  {
+    "id": 39,
+    "date": "2015-11",
+    "type": "text_article",
+    "title": "Dear Basketball",
+    "source": "The Players Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/articles/dear-basketball",
+    "themes": [
+      "legacy",
+      "work",
+      "life"
+    ],
+    "priority": "high",
+    "asset_slug": "2015-11_dear-basketball",
+    "extraction_status": "success",
+    "extraction_method": "manual_override",
+    "transcript_quality": "manual",
+    "failure_reason": null
+  },
+  {
+    "id": 40,
+    "date": "2015-11",
+    "type": "text_article",
+    "title": "30 Frames",
+    "source": "The Players Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/contributors/kbryant",
+    "themes": [
+      "mentality",
+      "legacy"
+    ],
+    "priority": "low",
+    "asset_slug": "2015-11_players-tribune-30-frames",
+    "extraction_status": "pending_manual",
+    "extraction_method": "manual_override",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "URL points to contributors page, not individual article"
+  },
+  {
+    "id": 41,
+    "date": "2015-12",
+    "type": "video_interview",
+    "title": "Kobe Bryants Muse: Childhood in Italy Segment",
+    "source": "Showtime",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/playlist?list=PL6fkKAMsPY-G5aQTSDAmVS_iTJpKPuNmt",
+    "themes": [
+      "life",
+      "work"
+    ],
+    "priority": "high",
+    "asset_slug": "2015-12_muse-childhood-italy",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 42,
+    "date": "2015-12",
+    "type": "video_interview",
+    "title": "Kobe Bryants Muse: 2003 Colorado Case Reflection",
+    "source": "Showtime",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/playlist?list=PL6fkKAMsPY-G5aQTSDAmVS_iTJpKPuNmt",
+    "themes": [
+      "life",
+      "mentality"
+    ],
+    "priority": "high",
+    "asset_slug": "2015-12_muse-colorado-reflection",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 43,
+    "date": "2015-12",
+    "type": "video_interview",
+    "title": "Kobe Bryants Muse: Achilles Rehab segment",
+    "source": "Showtime",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/playlist?list=PL6fkKAMsPY-G5aQTSDAmVS_iTJpKPuNmt",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "high",
+    "asset_slug": "2015-12_muse-achilles-rehab",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 44,
+    "date": "2016-04",
+    "type": "text_article",
+    "title": "Swan Song",
+    "source": "Sports Illustrated",
+    "interviewer": "N/A",
+    "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+    "themes": [
+      "legacy"
+    ],
+    "priority": "medium",
+    "asset_slug": "2016-04_si-swan-song",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "compilation/hub page - individual articles referenced in other entries"
+  },
+  {
+    "id": 45,
+    "date": "2016-04",
+    "type": "text_article",
+    "title": "04.13.2016",
+    "source": "The Players Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/contributors/kbryant",
+    "themes": [
+      "legacy",
+      "mentality"
+    ],
+    "priority": "medium",
+    "asset_slug": "2016-04_players-tribune-04132016",
+    "extraction_status": "pending_manual",
+    "extraction_method": "manual_override",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "URL points to contributors page, not individual article"
+  },
+  {
+    "id": 46,
+    "date": "2016-04",
+    "type": "video_interview",
+    "title": "Mamba Out: Farewell Speech and Post-Game Press Conference",
+    "source": "ESPN / NBA",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=gOhx_Fv8XTQ",
+    "themes": [
+      "legacy",
+      "life",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "2016-04_mamba-out-farewell",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 47,
+    "date": "2016-04",
+    "type": "video_interview",
+    "title": "Post-Retirement Interview on Ellen",
+    "source": "The Ellen DeGeneres Show",
+    "interviewer": "Ellen DeGeneres",
+    "url": "https://www.youtube.com/watch?v=T0jM37coZPo",
+    "themes": [
+      "life"
+    ],
+    "priority": "low",
+    "asset_slug": "2016-04_ellen-post-retirement",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 48,
+    "date": "2016-07",
+    "type": "text_article",
+    "title": "Letter to My Younger Self",
+    "source": "The Players Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/articles/kobe-bryant-letter-to-my-younger-self",
+    "themes": [
+      "life",
+      "leadership",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "2016-07_letter-to-younger-self",
+    "extraction_status": "pending_manual",
+    "extraction_method": "manual_override",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "Players' Tribune did not yield full text via automated extraction"
+  },
+  {
+    "id": 49,
+    "date": "2016-08",
+    "type": "video_interview",
+    "title": "Kobe Bryant at USC | Mamba Mentality",
+    "source": "USC Marshall School of Business",
+    "interviewer": "David Belasco",
+    "url": "https://www.youtube.com/watch?v=T5-vgyEbtPU",
+    "themes": [
+      "work",
+      "mentality",
+      "legacy"
+    ],
+    "priority": "high",
+    "asset_slug": "2016-08_usc-mamba-mentality",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 50,
+    "date": "2016-10",
+    "type": "video_interview",
+    "title": "Kobe Bryant on Business, Investments and Mentality",
+    "source": "WSJDLive",
+    "interviewer": "Dennis K. Berman",
+    "url": "https://www.youtube.com/watch?v=5w4ZA2WmBY0",
+    "themes": [
+      "work",
+      "legacy"
+    ],
+    "priority": "high",
+    "asset_slug": "2016-10_wsjdlive-business",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 51,
+    "date": "2016-11",
+    "type": "speech",
+    "title": "Alibaba 11.11 Countdown Gala",
+    "source": "Alibaba Group",
+    "interviewer": "N/A",
+    "url": "https://www.marketing-interactive.com/kobe-bryant-dunks-alibabas-11-11-countdown-gala",
+    "themes": [
+      "social",
+      "work"
+    ],
+    "priority": "low",
+    "asset_slug": "2016-11_alibaba-gala",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": null
+  },
+  {
+    "id": 52,
+    "date": "2016-12",
+    "type": "video_interview",
+    "title": "Canvas City: Musecage Discussion",
+    "source": "ESPN",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=w6_5t9tMa3Q",
+    "themes": [
+      "work",
+      "mentality"
+    ],
+    "priority": "medium",
+    "asset_slug": "2016-12_canvas-city-musecage",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 53,
+    "date": "2017-02",
+    "type": "text_article",
+    "title": "Obsession Is Natural",
+    "source": "The Players Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/contributors/kbryant",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "2017-02_players-tribune-obsession-natural",
+    "extraction_status": "pending_manual",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": "Players' Tribune JS-rendered content not extractable via automated fetch"
+  },
+  {
+    "id": 54,
+    "date": "2017-03",
+    "type": "video_interview",
+    "title": "Kobe Bryants 2017 Interview on First Take",
+    "source": "ESPN",
+    "interviewer": "Stephen A. Smith, Max Kellerman",
+    "url": "https://www.youtube.com/watch?v=TAwjRiKY9GI",
+    "themes": [
+      "social",
+      "mentality"
+    ],
+    "priority": "medium",
+    "asset_slug": "2017-03_first-take-interview",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 55,
+    "date": "2017-04",
+    "type": "video_interview",
+    "title": "Kobe Bryant on Kids Ignoring His Advice",
+    "source": "The Tonight Show Starring Jimmy Fallon",
+    "interviewer": "Jimmy Fallon",
+    "url": "https://www.youtube.com/watch?v=0zJh2FMTaDE",
+    "themes": [
+      "life",
+      "leadership"
+    ],
+    "priority": "low",
+    "asset_slug": "2017-04_jimmy-fallon-kids-advice",
+    "extraction_status": "success",
+    "extraction_method": "whisper",
+    "transcript_quality": "whisper-medium",
+    "failure_reason": null
+  },
+  {
+    "id": 56,
+    "date": "2017-05",
+    "type": "video_interview",
+    "title": "End of an Era: A Conversation With NBA Great Kobe Bryant",
+    "source": "Milken Institute Global Conference",
+    "interviewer": "Jim Gray",
+    "url": "https://www.youtube.com/watch?v=5ma2oQfiLF4",
+    "themes": [
+      "work",
+      "life",
+      "legacy"
+    ],
+    "priority": "high",
+    "asset_slug": "2017-05_milken-institute-conversation",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 57,
+    "date": "2017-12",
+    "type": "speech",
+    "title": "Jersey Retirement Ceremony Speech",
+    "source": "NBA / Lakers",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=juyhKZ20Yso",
+    "themes": [
+      "legacy",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "2017-12_jersey-retirement-speech",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 58,
+    "date": "2018-01",
+    "type": "video_interview",
+    "title": "Interview with Jalen Rose on 81-Point Game",
+    "source": "ESPN",
+    "interviewer": "Jalen Rose",
+    "url": "https://www.youtube.com/watch?v=JRZxscy-uDs",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "2018-01_jalen-rose-81-point",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 59,
+    "date": "2018-03",
+    "type": "speech",
+    "title": "Dear Basketball Oscar Acceptance Speech",
+    "source": "Academy Awards",
+    "interviewer": "N/A",
+    "url": "https://aaspeechesdb.oscars.org/link/090-18/",
+    "themes": [
+      "work",
+      "social",
+      "legacy"
+    ],
+    "priority": "high",
+    "asset_slug": "2018-03_oscar-acceptance-speech",
+    "extraction_status": "pending_manual",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": "Oscar speeches database timed out; known speech text included but may need verification"
+  },
+  {
+    "id": 60,
+    "date": "2018-04",
+    "type": "video_interview",
+    "title": "Discussing Detail on ESPN+",
+    "source": "Get Up (ESPN)",
+    "interviewer": "Jalen Rose, Mike Greenberg",
+    "url": "https://www.youtube.com/watch?v=79pCl52iwRk",
+    "themes": [
+      "work",
+      "mentality"
+    ],
+    "priority": "medium",
+    "asset_slug": "2018-04_get-up-detail-espn",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 61,
+    "date": "2018-07",
+    "type": "text_article",
+    "title": "Fantastic Voyage",
+    "source": "Sports Illustrated",
+    "interviewer": "Chris Ballard",
+    "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+    "themes": [
+      "legacy",
+      "work"
+    ],
+    "priority": "high",
+    "asset_slug": "2018-07_si-fantastic-voyage",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": null
+  },
+  {
+    "id": 62,
+    "date": "2018-07",
+    "type": "video_interview",
+    "title": "UnSportsmanLike Podcast Interview",
+    "source": "UnSportsmanLike",
+    "interviewer": "Evan, Canty, and Michelle",
+    "url": "https://www.podchaser.com/lists/top-podcast-episodes-celebrating-kobe-bryants-legacy-107tVLH1jW",
+    "themes": [
+      "social",
+      "work"
+    ],
+    "priority": "low",
+    "asset_slug": "2018-07_unsportsmanlike-podcast",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "Podchaser URL; no transcript available via automated methods"
+  },
+  {
+    "id": 63,
+    "date": "2018-08",
+    "type": "video_interview",
+    "title": "The Rich Eisen Show Interview",
+    "source": "The Rich Eisen Show",
+    "interviewer": "Rich Eisen",
+    "url": "https://www.youtube.com/watch?v=v3qrnCLDzCA",
+    "themes": [
+      "social",
+      "leadership"
+    ],
+    "priority": "low",
+    "asset_slug": "2018-08_rich-eisen-show",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 64,
+    "date": "2018-09",
+    "type": "video_interview",
+    "title": "The School of Greatness Interview",
+    "source": "The School of Greatness Podcast",
+    "interviewer": "Lewis Howes",
+    "url": "https://lewishowes.com/podcast/kobe-bryant-mamba-mentality-nba-championships-and-oscars/",
+    "themes": [
+      "mentality",
+      "work",
+      "legacy"
+    ],
+    "priority": "high",
+    "asset_slug": "2018-09_school-of-greatness",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 65,
+    "date": "2018-10",
+    "type": "book",
+    "title": "The Mamba Mentality: How I Play",
+    "source": "MCD / Macmillan",
+    "interviewer": "N/A",
+    "url": "https://en.wikipedia.org/wiki/The_Mamba_Mentality:_How_I_Play",
+    "themes": [
+      "work",
+      "mentality"
+    ],
+    "priority": "high",
+    "asset_slug": "2018-10_mamba-mentality-book",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": null
+  },
+  {
+    "id": 66,
+    "date": "2018-10",
+    "type": "video_interview",
+    "title": "Mamba Mentality Book Tour Interview",
+    "source": "Access Hollywood",
+    "interviewer": "N/A",
+    "url": "https://www.youtube.com/watch?v=670K7nuogIc",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "2018-10_mamba-mentality-book-tour",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 67,
+    "date": "2019-02",
+    "type": "video_interview",
+    "title": "Anna Faris Is Unqualified",
+    "source": "Unqualified Podcast",
+    "interviewer": "Anna Faris",
+    "url": "https://unqualified.com/episodes/kobe-bryant/",
+    "themes": [
+      "life",
+      "social"
+    ],
+    "priority": "medium",
+    "asset_slug": "2019-02_anna-faris-unqualified",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 68,
+    "date": "2019-03",
+    "type": "video_interview",
+    "title": "The Wizenard Series and Coaching",
+    "source": "The Tonight Show Starring Jimmy Fallon",
+    "interviewer": "Jimmy Fallon",
+    "url": "https://www.youtube.com/watch?v=I8bUKwjQz3o",
+    "themes": [
+      "leadership",
+      "life"
+    ],
+    "priority": "medium",
+    "asset_slug": "2019-03_jimmy-fallon-wizenard",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 69,
+    "date": "2019-09",
+    "type": "video_interview",
+    "title": "Knuckleheads Podcast Appearance",
+    "source": "The Players Tribune",
+    "interviewer": "Quentin Richardson, Darius Miles",
+    "url": "https://podcasts.apple.com/us/podcast/kobe-bryant/id1452698284?i=1000450108225",
+    "themes": [
+      "social",
+      "mentality",
+      "work"
+    ],
+    "priority": "high",
+    "asset_slug": "2019-09_knuckleheads-podcast",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 70,
+    "date": "2019-09",
+    "type": "video_interview",
+    "title": "On Purpose with Jay Shetty",
+    "source": "On Purpose Podcast",
+    "interviewer": "Jay Shetty",
+    "url": "https://podcasts.apple.com/us/person/6736249608",
+    "themes": [
+      "life",
+      "mentality",
+      "legacy"
+    ],
+    "priority": "high",
+    "asset_slug": "2019-09_on-purpose-jay-shetty",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 71,
+    "date": "2019-09",
+    "type": "video_interview",
+    "title": "Kobe Bryant on Shaq Drama & Raising Four Daughters",
+    "source": "Jimmy Kimmel Live",
+    "interviewer": "Jimmy Kimmel",
+    "url": "https://www.youtube.com/watch?v=t8eoIKiDTw8",
+    "themes": [
+      "life",
+      "social"
+    ],
+    "priority": "medium",
+    "asset_slug": "2019-09_jimmy-kimmel-shaq-drama",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 72,
+    "date": "2019-10",
+    "type": "video_interview",
+    "title": "Patrick Bet-David Valuetainment Interview",
+    "source": "Valuetainment",
+    "interviewer": "Patrick Bet-David",
+    "url": "https://www.youtube.com/watch?v=T9GvDekiJ9c",
+    "themes": [
+      "work",
+      "mentality",
+      "leadership",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "2019-10_valuetainment-interview",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 73,
+    "date": "2020-01",
+    "type": "video_interview",
+    "title": "All The Smoke Podcast Episode 11",
+    "source": "Showtime Basketball",
+    "interviewer": "Matt Barnes, Stephen Jackson",
+    "url": "https://www.youtube.com/watch?v=3R3KIyEgCgc",
+    "themes": [
+      "life",
+      "leadership",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "2020-01_all-the-smoke-podcast",
+    "extraction_status": "success",
+    "extraction_method": "yt-dlp_auto_sub",
+    "transcript_quality": "auto-generated",
+    "failure_reason": null
+  },
+  {
+    "id": 74,
+    "date": "2020-01",
+    "type": "social_post",
+    "title": "Final Tweet Congratulating LeBron James",
+    "source": "Twitter / Instagram",
+    "interviewer": "N/A",
+    "url": "https://www.reddit.com/r/lakers/comments/euepby/kobes_last_post_on_twitter_and_instagram_was/",
+    "themes": [
+      "social",
+      "legacy"
+    ],
+    "priority": "medium",
+    "asset_slug": "2020-01_final-tweet-lebron",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": null
+  },
+  {
+    "id": 75,
+    "date": "2020-02",
+    "type": "speech",
+    "title": "Memorial Tributes (Jordan, Shaq, Vanessa)",
+    "source": "Staples Center Memorial",
+    "interviewer": "N/A",
+    "url": "https://www.latimes.com/sports/lakers/story/2020-02-24/kobe-bryant-memorial-read-all-the-speeches",
+    "themes": [
+      "legacy",
+      "life",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "2020-02_memorial-tributes",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "LA Times, CNN, USA Today, ESPN all blocked. Speech texts need manual provision."
+  },
+  {
+    "id": 76,
+    "date": "2020-02",
+    "type": "text_article",
+    "title": "Kobe Bryant: An Extraordinary Life",
+    "source": "ESPN Special Issue",
+    "interviewer": "N/A",
+    "url": "https://www.foxbusiness.com/sports/espn-kobe-bryant-magazine-issue",
+    "themes": [
+      "legacy"
+    ],
+    "priority": "medium",
+    "asset_slug": "2020-02_espn-extraordinary-life",
+    "extraction_status": "success",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": null
+  },
+  {
+    "id": 77,
+    "date": "2020-09",
+    "type": "video_interview",
+    "title": "Death of a Sports Star Podcast",
+    "source": "Death of a Sports Star",
+    "interviewer": "N/A",
+    "url": "https://www.podchaser.com/lists/top-podcast-episodes-celebrating-kobe-bryants-legacy-107tVLH1jW",
+    "themes": [
+      "legacy",
+      "life"
+    ],
+    "priority": "low",
+    "asset_slug": "2020-09_death-of-a-sports-star",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "Podchaser URL; no transcript available via automated methods"
+  },
+  {
+    "id": 78,
+    "date": "2021-08",
+    "type": "video_interview",
+    "title": "In Depth with Graham Bensinger (Re-release)",
+    "source": "Graham Bensinger",
+    "interviewer": "Graham Bensinger",
+    "url": "https://grahambensinger.com/2021/08/03/kobe-bryant/",
+    "themes": [
+      "life",
+      "mentality"
+    ],
+    "priority": "medium",
+    "asset_slug": "2021-08_graham-bensinger-rerelease",
+    "extraction_status": "pending_manual",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "edited_transcript",
+    "failure_reason": "grahambensinger.com connection refused; site may be down"
+  },
+  {
+    "id": 79,
+    "date": "2025-02",
+    "type": "video_interview",
+    "title": "Kobe: The Making of a Legend (Docuseries) Ep 1",
+    "source": "CNN / HBO Max",
+    "interviewer": "N/A",
+    "url": "https://archive.org/details/CNNW_20250202_070000_Kobe_The_Making_of_a_Legend",
+    "themes": [
+      "life",
+      "mentality",
+      "legacy"
+    ],
+    "priority": "high",
+    "asset_slug": "2025-02_making-of-legend-ep1",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "Streaming content; no transcript available via automated methods"
+  },
+  {
+    "id": 80,
+    "date": "2025-02",
+    "type": "video_interview",
+    "title": "Kobe: The Making of a Legend (Docuseries) Ep 2",
+    "source": "CNN / HBO Max",
+    "interviewer": "N/A",
+    "url": "https://tv.apple.com/us/show/kobe-the-making-of-a-legend/umc.cmc.5m4m1vj6ytl5diyrpe7sdibyz",
+    "themes": [
+      "work",
+      "social"
+    ],
+    "priority": "high",
+    "asset_slug": "2025-02_making-of-legend-ep2",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "Streaming content; no transcript available via automated methods"
+  },
+  {
+    "id": 81,
+    "date": "2025-02",
+    "type": "video_interview",
+    "title": "Kobe: The Making of a Legend (Docuseries) Ep 3",
+    "source": "CNN / HBO Max",
+    "interviewer": "N/A",
+    "url": "https://tv.apple.com/us/show/kobe-the-making-of-a-legend/umc.cmc.5m4m1vj6ytl5diyrpe7sdibyz",
+    "themes": [
+      "legacy",
+      "leadership"
+    ],
+    "priority": "high",
+    "asset_slug": "2025-02_making-of-legend-ep3",
+    "extraction_status": "pending_manual",
+    "extraction_method": null,
+    "transcript_quality": null,
+    "failure_reason": "Streaming content; no transcript available via automated methods"
+  },
+  {
+    "id": 82,
+    "date": "2014-12",
+    "type": "text_article",
+    "title": "Zero",
+    "source": "The Players' Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/articles/kobe-passes-jordan",
+    "themes": [
+      "legacy",
+      "mentality"
+    ],
+    "priority": "medium",
+    "asset_slug": "2014-12_players-tribune-zero",
+    "extraction_status": "pending_manual",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "Players' Tribune JS-rendered content; only metadata extracted"
+  },
+  {
+    "id": 83,
+    "date": "2015-02",
+    "type": "text_article",
+    "title": "8Teen",
+    "source": "The Players' Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/articles/8teen",
+    "themes": [
+      "mentality",
+      "work"
+    ],
+    "priority": "medium",
+    "asset_slug": "2015-02_players-tribune-8teen",
+    "extraction_status": "pending_manual",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "Players' Tribune JS-rendered content; only metadata extracted"
+  },
+  {
+    "id": 84,
+    "date": "2015-02",
+    "type": "text_article",
+    "title": "The Black Hat",
+    "source": "The Players' Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/articles/the-black-hat",
+    "themes": [
+      "mentality",
+      "legacy"
+    ],
+    "priority": "medium",
+    "asset_slug": "2015-02_players-tribune-black-hat",
+    "extraction_status": "pending_manual",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "Players' Tribune JS-rendered content; only metadata extracted"
+  },
+  {
+    "id": 85,
+    "date": "2015-11",
+    "type": "text_article",
+    "title": "The Last Shot",
+    "source": "The Players' Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/articles/kobe-bryant-lakers-photo-gallery",
+    "themes": [
+      "legacy"
+    ],
+    "priority": "low",
+    "asset_slug": "2015-11_players-tribune-last-shot",
+    "extraction_status": "pending_manual",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "Players' Tribune JS-rendered content; only metadata extracted"
+  },
+  {
+    "id": 86,
+    "date": "2018-10",
+    "type": "text_article",
+    "title": "Mamba Mentality (Photos)",
+    "source": "The Players' Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/articles/kobe-bryant-lakers-photos-andrew-bernstein",
+    "themes": [
+      "work",
+      "mentality"
+    ],
+    "priority": "low",
+    "asset_slug": "2018-10_players-tribune-mamba-mentality",
+    "extraction_status": "pending_manual",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "Players' Tribune JS-rendered content; only metadata extracted"
+  },
+  {
+    "id": 87,
+    "date": "2019-09",
+    "type": "text_article",
+    "title": "The Black Bruce Wayne",
+    "source": "The Players' Tribune",
+    "interviewer": "N/A",
+    "url": "https://www.theplayerstribune.com/articles/kobe-bryant-quentin-richardson-darius-miles-knuckleheads-podcast",
+    "themes": [
+      "social",
+      "mentality"
+    ],
+    "priority": "medium",
+    "asset_slug": "2019-09_players-tribune-black-bruce-wayne",
+    "extraction_status": "pending_manual",
+    "extraction_method": "web_fetch",
+    "transcript_quality": "excerpts_only",
+    "failure_reason": "Players' Tribune JS-rendered content; only metadata extracted"
+  }
+]

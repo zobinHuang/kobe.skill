@@ -1,0 +1,76 @@
+---
+title: "Preseason Halftime Interview with Chick Hearn"
+date: 1996-10
+source: "Local Broadcast"
+type: video_interview
+url: "https://www.youtube.com/watch?v=s5JFEzp4DZU"
+extraction_method: whisper
+transcript_quality: whisper-medium
+---
+
+When your father was still playing, he went to Italy and played, took you with him as
+a young lad.
+I think it taught you a lot.
+It did.
+I think that being in another country, my sisters and my mother taught us, first of
+all, family values, because we didn't have anybody to rely on but our family.
+I think that we had to be very mature in moving from city to city and place to place to respond
+to that and to handle that as responsible human beings.
+I think coming back here to America, I still kept my family values and the things that
+my father and my mother had taught me.
+He averaged 31 points a game last year, 12 rebounds.
+He got six or seven assists a game, four blocks.
+He just did it all and his team won the state.
+That state championship really meant a lot to me.
+In the previous years, it's all been individual goals.
+Coming to my senior year, everybody put so much pressure on myself and my team to win
+the state championship.
+After we won, it was just like the biggest relief in the world.
+I suppose the big question, because so few have done it and most have failed, as you
+know, come out of high school to the pros.
+It was just a challenge that was there.
+What college would have been a challenge?
+It would have been a challenge, but when people say that, yeah, the opportunity to go to the
+NBA is the greatest players in the world, that doesn't get you going.
+I don't think anything will.
+In fact, you do some things like Michael Jordan I'm talking about.
+Growing up, I always tried to dissect different players at an early age, whether it was Magic,
+Michael, Pippen, whoever.
+I tried to take different parts of the game and put them into my game so I can be a well-rounded
+athlete.
+You learned a lot in the summer league, I'll bet you.
+Definitely.
+I've learned how to play the NBA style of play, the physicalness, the mental toughness
+that you need to get in there and get the job done in the season in the NBA.
+I understand it's going to be a rollercoaster season for myself, but I'm going to get in
+there and learn from these guys.
+Yeah.
+Well, you're probably going to be playing behind Eddie, your old friend from Philadelphia.
+Eddie's pretty good.
+Oh, he's very, very good.
+I remember I used to play against Eddie when I was in eighth grade, ninth grade, tenth
+grade, and he's basically seen me grow up.
+I've seen him play at Temple all his years.
+We really went at each other even at that early age.
+Really?
+Yep.
+He's took me under his wing even at that early age.
+I feel like you are going to put together the nucleus of the team.
+This is a pretty good team you're with now.
+Definitely.
+I think we have a very good nucleus.
+We have everything, all the ingredients, right ingredients for winning the championship.
+Hopefully we can put them all together and get in there and get the job done.
+What's it really feel like to put on the gold and purple?
+It feels great because there's just so much pride behind the uniform and the legacy that's
+behind the uniform.
+I remember growing up and seeing Irvin Johnson coming to the NBA with the L.A. Lakers and
+winning all the championships, him and Mr. Scott and Wordy and so forth.
+And when I step on the court, you just feel so much pride to try to carry on the tradition
+and carry on the legacy that Mr. West and Chamberlain and the captain, they all had there
+and they all instilled there.
+So it's just so much pride in that uniform.
+And for you.
+It's like a dream come true.
+You know, ever since I got traded from Charlotte to L.A., it seems like I've been dreaming
+and hopefully I won't start dreaming until the day I retire.

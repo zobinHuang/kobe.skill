@@ -1,0 +1,17 @@
+{
+  "title": "On Purpose with Jay Shetty",
+  "date": "2019-09",
+  "source": "On Purpose Podcast",
+  "type": "video_interview",
+  "url": "https://podcasts.apple.com/us/person/6736249608",
+  "interviewer": "Jay Shetty",
+  "themes": [
+    "life",
+    "mentality",
+    "legacy"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

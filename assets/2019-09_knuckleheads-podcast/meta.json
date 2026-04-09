@@ -1,0 +1,17 @@
+{
+  "title": "Knuckleheads Podcast Appearance",
+  "date": "2019-09",
+  "source": "The Players' Tribune",
+  "type": "video_interview",
+  "url": "https://podcasts.apple.com/us/podcast/kobe-bryant/id1452698284?i=1000450108225",
+  "interviewer": "Quentin Richardson, Darius Miles",
+  "themes": [
+    "social",
+    "mentality",
+    "work"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Cracking Kobe",
+  "date": "2001-06",
+  "source": "ESPN The Magazine",
+  "type": "text_article",
+  "url": "N/A",
+  "interviewer": "N/A",
+  "themes": [
+    "mentality",
+    "social"
+  ],
+  "extraction_method": null,
+  "transcript_quality": null,
+  "extraction_status": "skipped",
+  "failure_reason": "URL is N/A - no online source available"
+}

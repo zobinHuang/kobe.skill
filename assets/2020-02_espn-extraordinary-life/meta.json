@@ -1,0 +1,15 @@
+{
+  "title": "Kobe Bryant: An Extraordinary Life",
+  "date": "2020-02",
+  "source": "ESPN Special Issue",
+  "type": "text_article",
+  "url": "https://www.foxbusiness.com/sports/espn-kobe-bryant-magazine-issue",
+  "interviewer": "N/A",
+  "themes": [
+    "legacy"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "excerpts_only",
+  "extraction_status": "success",
+  "failure_reason": null
+}

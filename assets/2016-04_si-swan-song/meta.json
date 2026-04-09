@@ -1,0 +1,16 @@
+{
+  "title": "Swan Song: Kobe's Final Season",
+  "date": "2016-04",
+  "source": "Sports Illustrated",
+  "type": "text_article",
+  "url": "https://www.si.com/nba/kobe-bryant-retirement",
+  "interviewer": "N/A",
+  "themes": [
+    "legacy",
+    "life"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "excerpts_only",
+  "extraction_status": "success",
+  "failure_reason": "compilation/hub page - individual articles referenced in other entries"
+}

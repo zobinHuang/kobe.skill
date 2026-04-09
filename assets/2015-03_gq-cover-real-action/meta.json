@@ -1,0 +1,16 @@
+{
+  "title": "GQ Cover Story: Real Action",
+  "date": "2015-03",
+  "source": "GQ / Sportsnet",
+  "type": "text_article",
+  "url": "https://www.sportsnet.ca/basketball/nba/kobe-bryant-gq-cover-story/",
+  "interviewer": "N/A",
+  "themes": [
+    "life",
+    "mentality"
+  ],
+  "extraction_method": "manual_override",
+  "transcript_quality": "excerpts_only",
+  "extraction_status": "pending_manual",
+  "failure_reason": "sportsnet.ca blocked"
+}

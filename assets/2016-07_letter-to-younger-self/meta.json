@@ -1,0 +1,16 @@
+{
+  "title": "Letter to My Younger Self",
+  "date": "2016-07",
+  "source": "The Players' Tribune",
+  "type": "text_article",
+  "url": "https://www.theplayerstribune.com/articles/kobe-bryant-letter-to-my-younger-self",
+  "interviewer": "N/A",
+  "themes": [
+    "life",
+    "legacy"
+  ],
+  "extraction_method": "manual_override",
+  "transcript_quality": "excerpts_only",
+  "extraction_status": "pending_manual",
+  "failure_reason": "Players' Tribune did not yield full text via automated extraction"
+}

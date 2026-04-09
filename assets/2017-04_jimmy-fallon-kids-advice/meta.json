@@ -1,0 +1,16 @@
+{
+  "title": "Kobe Bryant on Kids Ignoring His Advice",
+  "date": "2017-04",
+  "source": "The Tonight Show Starring Jimmy Fallon",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=0zJh2FMTaDE",
+  "interviewer": "Jimmy Fallon",
+  "themes": [
+    "life",
+    "leadership"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

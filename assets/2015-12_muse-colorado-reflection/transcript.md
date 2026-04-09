@@ -1,0 +1,813 @@
+---
+title: "Kobe Bryant's Muse: 2003 Colorado Case Reflection"
+date: 2015-12
+source: "Showtime"
+type: video_interview
+url: "https://www.youtube.com/watch?v=oo13niMuo4k"
+extraction_method: whisper
+transcript_quality: whisper-medium
+---
+
+Full documentary transcript. The Colorado reflection segment is part of this complete recording.
+
+One of the most terrifying dreams for me was the dream of me being on a basketball court,
+stadiums full, I'm attacking the basket and I can't get off the ground. I can't jump, like I'm stuck, like I'm cemented to the floor.
+I was conscious of the fact that I was dreaming. So now I'm trying to control my dream. You can jump through it, you can push through it, you can get to that basket.
+And no matter how hard I tried, my legs were too heavy. I can't jump.
+A year that's given us more than a share of disappointment has also provided us with numerous thrills and Laker fans are looking for more here tonight with three games remaining and destiny in the Laker hands to get back into the playoffs where they usually do well.
+My warm-ups are always just kind of doing the mental check of my body, like what's tight, what's pulling on me, what's not pulling on me, how do I loosen it up, how do I get things going. My body felt a little stiff.
+I remember getting new stuff, getting going and then finally in the game kind of working myself into a lather. My body felt good.
+I had never worked so much in my entire career in terms of preparation and getting my body physically ready night in and night out and I've been playing some of my best basketball.
+Kobe's hurting. Kobe's hurting. I mean these minutes might be just absolutely adding up. Oh there's no question they're adding up. No question.
+What I always try to do through injuries is not think about them because when the game itself is more significant than the injury, you don't feel the injury. The injury won't get in the way because it's not important to you.
+Kobe, three. Yes! Big one crying from outside. 107-104, three point game, five minutes left.
+Guarded by the rookie, Harrison Barnes. Kobe, one on one, isolated for the tie. He's got it for a seven on. The Mamba is looking like the Mamba.
+Ryan again going to work, falls down. Yeah he's struggling. He's going to stay down there for a bit. As soon as I made the move, I knew it.
+I mean that's the Achilles. I mean I shouldn't say that. That's a foot injury.
+It feels like the shock absorbers in the back of your foot are just gone. There's just nothing there. So when you walk it's like, it feels like your calf muscle is touching the floor.
+I can feel it rolling up the back of my calf as if it was just kind of slipping up further and further.
+I remember feeling the silence. I remember feeling the fear. 35 years old, 17, 18 years in the league. This could be a wrap. And that's what the silence was. It was like, this could really be a wrap for you.
+He can barely make it to the free throw line. Ryan tonight with 32 points, five rebounds, four assists, and he has heard it. But the Lakers down by two and they want him and beat him in the free throw line.
+He's got it.
+Kobe Bryant cannot continue.
+Family walks in. It's Vanessa and our daughters. And you know, I'm already, you know, I've been crying and I had tears in my eyes. I don't think I was crying yet.
+I was more upset. Like this could be the end. In the locker room, on the court, around my teammates. I've always tried to be very strong and be invincible.
+Not be Clark Kent, but be Superman. And then family comes in and now that is home. That's where you can be you. And I just let it go. I couldn't hold on to it anymore.
+And you don't, you know, looking at my daughter's faces, I mean, they were genuinely afraid, right? Because they could feel something. They could feel the tension, but didn't really know exactly why.
+And as a parent, the first thing that comes to your mind is when you see your kids afraid, you want them to not be afraid, right? You want to give them strength. You want to give them courage. You want to reassure them.
+And the only way I could reassure them is by telling them, hey, daddy's okay. You know, it's gonna be all right. You know, it's a little setback, but we'll be fine, right?
+This is what we talk about all the time. You know, you have a bump in the road, you fall, you get back up, and you go after it again, right? That's what we do.
+So even at the time I didn't believe in myself, I felt like it was important to say that to them because I felt they needed to hear that.
+As a parent, you can't just talk the talk. You gotta walk the walk. And you gotta be brave in these type of situations, if not for yourself, then for your kids.
+Kobe, are you convinced that they told us probable torn Achilles, they're gonna do an MRI? Are you pretty convinced that's what it is?
+Yeah.
+If anyone's gonna get through this, probably you, right?
+Oh, man. Shit.
+You've had tons of personal and professional challenges in your career. Is this at the top of the list?
+Yeah, you know, but it's fueling me. It's fueling me. I can feel it already. I can feel it already. It's just, you know, players at this stage of their career, you know, they pop Achilles in, you know, the pundits say they'll never come back the same.
+So I can hear it already. It's pissing me off right now, thinking about it.
+So this isn't the last game that we're gonna play?
+Really?
+Well, no, I'm not trying to be rude.
+Really?
+I'm sorry. I'm just trying to...
+It's appropriate that you ask that question from down there.
+This injury was Mount Everest for me personally, because I knew what the long road was gonna be. So at that point, you have to make a decision. You have to make a choice.
+Oh, it looks beautiful. It goes up there, it goes down below.
+Cover, suture removal.
+It's fabulous, no swelling, huh?
+Nice tension in it.
+Yeah, great tension.
+Kobe, the tension is just perfect.
+It is?
+Oh, yeah.
+Beautiful.
+Can you feel me? Can you feel me touching you here?
+Yeah.
+That's a subtle nerve.
+Yeah. Yeah. Even his healing is...
+Yeah.
+He's got good healing capabilities, huh?
+He doesn't have any burning, that sort of stuff, but he's got this medial nerve.
+This looks absolutely beautiful.
+Yeah. Beautiful.
+Ross, if you could just hold that.
+Okay, and then just open up the cling.
+Point your whole foot up towards the ceiling.
+That's it, and relax, and up.
+Push it up, hold it up there, hold it up, hold it up, hold it up.
+Now go ahead and move your finger, let him hold it himself, and let it relax.
+Wow.
+Shut these naysayers up once and for all.
+Ryan puts it on the floor, gets inside of Spencer.
+Whoa!
+That's a long time, but Kareem blows the building.
+Jelly Bean, made like Darrell Dockens.
+Ryan arms the building shaker.
+Look at this. Way up there, he slams it down.
+Look at his body, how high he is in the air.
+That's incredible.
+He used to be really short from playing, you know, so he would have his kids walk on his back,
+which I thought was really fun.
+Trying to stand on your father's back, and you're cracking his back as you're walking on top of him.
+I always thought that was pretty cool.
+He used to walk on his hamstrings and stuff.
+He was a ball handling guard at 6'10 that could shoot the long ball, and he had all the skills.
+He had all the skills.
+Fans loved him. He could do virtually anything.
+So he played in the NBA for eight years, and decided if he wanted to further his career,
+play the way he wanted to play, he should make the transition to play overseas and play in Italy.
+So he took us with him.
+I was six, and at six, you know, you just go with the flow.
+You move into a place where you don't speak the language at all.
+You have friends there, and after two years, you bounce to another city.
+Now you have to start again, and then two years later repeats itself.
+Two years later, that repeats itself.
+Now you really don't know anybody, and you have to figure things out all over again.
+I would be more than happy just to tag along, just to be around that atmosphere.
+Be around the game, and be a ball boy, and just kind of be in the mix.
+I would sit under the basket the entire game, and I'd have one of those big, like, sweeper, like court sweeper things.
+Something happened when, of course, somebody slipped or some sweat.
+I was really anal about making sure I got every little, every last drop off.
+It was a rush to be that close.
+I used to try to sleep with my clothes on.
+You know, if you needed to get to practice, I wouldn't feel like I was going to make them late or something.
+I mean, they would do, like, two practices a day, and that sort of stuff.
+And I'd want to go, and I begged to go, but he wouldn't let me go.
+So I would disappear and go play basketball.
+The thing that was always the most constant was the game.
+And that was my refuge.
+That was the place where I could go and have complete familiarity, no matter where I was.
+Whether it was Rieti, or Reggio Calabria, Reggio Milla, Pistoia, didn't matter.
+Whether I got along with the kids or didn't get along with the kids, didn't matter, because I always had my ball.
+So I could always pick up my basketball, I could always hop on my bike, I could always go to the park,
+and I could always shoot.
+And that gave me a great source of comfort.
+Over to Byrd, Byrd's three pointer and away, good!
+My mom's father, Grandpa Cox, used to record all the games.
+And he used to box them up and send us copies of them.
+And I would sit there at home and watch these games over and over and over and over and over and over and over.
+...fighting in this game.
+Tried to get it away, but broken up by Daly.
+And gets it away to Jordan.
+Oh, Sheltam for Byrd.
+Now there's a steal by Byrd.
+On the lead to DJ Layton.
+One second left.
+I saw NBA game. I saw other players around me.
+Everybody was there, and I could see it as clear as day.
+It was a place that I could go to and not be alone.
+...down on the left side of the battle.
+I remember I realized that I had to learn how to go coast to coast,
+because that's what John Battle from the Atlanta Hawks did.
+John Battle.
+Most people probably don't even know who John Battle is, but I do.
+Because from watching him get a rebound and go coast to coast with his left hand,
+even though he was right handed, whoa, I need to do that.
+Leaping lane, the jumper, 15, good.
+I wanted to do what those guys do on TV.
+It was like this mythical thing.
+Six to nine months is the very earliest, and in all probability it's a year.
+And the real question which you've hit on is, will he ever be the same?
+And many of our best basketball players, Isaiah Thomas, Shaq, Barkley,
+all retired after this injury.
+...
+...
+...
+...
+...
+...
+The game for me has always been about passion until probably about the age of...
+...age of 13.
+So it was all about kind of love, it was fun, you know, when I played,
+and you know, I had a good time.
+But once we moved back to America for good, when I was 13 years old,
+I kind of moved in about November or so, in the school year at Ballackin with middle school.
+And I was just, it was different.
+I mean, I didn't understand the slang.
+I was a little Italian boy, I didn't understand the fashion.
+And I couldn't spell.
+So the teacher told my mother that I was probably dyslexic.
+It was like somebody took me and dropped me in a bucket in a tub of ice cold water,
+because it shocked the shit out of me.
+I didn't know anybody, very awkward, skinny looking, barely spoke.
+I was sitting at a lunch table all by myself, no friends.
+And I was upset that I had moved.
+And I had all this, you know, resentment and anger inside of me that I hadn't really let out.
+It was never viewed as, I'm going to control this thing.
+It was more like, you know what, I'm just going to delay the eruption.
+I'm just going to push it to the side and then use it to my benefit
+for what it is that I love doing, which is playing the game.
+And once I discovered that, everything about the game changed.
+Because now I understood that I could really lose myself through the game.
+And no matter what affected me, no matter what happened in life,
+I could always step on the basketball court and let my game speak to that.
+Step on that court and just absolutely erupt.
+And that feeling of playing with that rage was new to me, but I fucking loved it.
+There's a choice that we have to make as people, as individuals.
+If you want to be great at something, there's a choice that you have to make.
+We all can be masters at our craft.
+But you have to make a choice.
+What I mean by that is there are inherent sacrifices that come along with that.
+Family time, hanging out with your friends, being a great friend.
+Being a great son, nephew, whatever the case may be.
+There are sacrifices that come along with making that decision.
+For Marion Prevails and wins the state championship by the final score of 48 to 43.
+The celebration is on for the Asa.
+And look at the media chasing Kobe Bryant.
+They want a shot of him because this jank just may be this young man's last game before heading for the NBA.
+In your heart of hearts, do you think you're good enough right now to play in the NBA next year?
+It's good to have self-confidence.
+I want to learn how to become the best basketball player in the world.
+And if I'm going to learn that, I've got to learn from the best.
+Kids go to school to be doctors or lawyers and so forth and so on.
+And that's where they study. That's the place for them to study.
+My place to study is from the best.
+Kobe Bryant had decided to skip college and take my talent to the NBA.
+I knew that I was not going to be stopped.
+Because at the age of 18, this was my life.
+So you can't possibly become better than me because you're not spending the time on it that I do.
+Even if you want to spend the time on it, you can't because you have other things.
+You have other responsibilities that are taking you away from it.
+So I already won.
+Yeah.
+Yeah.
+One of the hardest times I've ever worked out.
+Well, I have a ton of respect for you. Hope to see you back out here soon.
+I know I will.
+We'll put the rich guy in the middle.
+Growing up in Italy, I was such a big Laker fan.
+Like a massive Laker fan.
+I knew everything about them.
+I was obsessed with magic.
+I used to work on my sky hook every single day.
+And then, you know, to be like Kareem.
+And then I worked on the baby hooks to be like magic.
+And I worked on my runners to be like James Worthy.
+My left hand hook runners, right hand hook runners.
+My pull up jump shot and transition like Byron Scott.
+And scoring 40, 50, 60 points every single day.
+Scoring 40, 50, 60 points, 80 points.
+I'd have those dreams.
+And so 100% of the time when I imagine these things, I had on a Laker uniform.
+A golden jersey baby.
+This was like a dream come true.
+Eldon Campbell back in the floor with Rooks.
+And Kobe Bryant making his first appearance in Madison Square Garden.
+18 years of age and he'll go to the free throw line.
+Now, let's give you some perspective.
+This is the third game of the season.
+A year ago at this time in his third game for Lower Marion High School.
+Kobe Bryant was leading the Lower Marion Aces to victory over Haverford High School.
+There is his first point in the NBA.
+And it comes at the age of 18 years, two months, and a couple of days.
+All season I was just waiting and waiting for my opportunity to come.
+I wanted to prove that I was better than they thought I was.
+I wanted to prove to myself that I'm better than they think I was.
+And I was mentally preparing myself and visualizing the moment that would come where I'm going to win.
+I lead the Los Angeles Lakers to a victory.
+There were times I'd sit at the bench for seven straight games and then play the last 20 seconds of a game.
+And then look around and see other players around the league that are out there playing and performing.
+And setting the league on fire.
+It comes to Ray Allen.
+I knew I could play with these guys because I had seen them up close.
+I knew I could compete with them.
+But I wasn't getting the opportunity to show it.
+There's Kobe on the bench, itching to get in, itching to get in.
+One of the things that I've always used to do is get in my car and drive around the campus of UCLA.
+And I'd see kids hanging out in maternity houses and just walking around.
+I just wanted to feel that.
+I just wanted to feel that.
+And then I'd even wonder, fuck, did I make the wrong choice, man?
+Did I fuck up?
+I could be going to college and laughing and hanging out with these kids, man, and having a good time and enjoying it.
+And no, here I am.
+Before each series, we got a binder.
+And it had all the plays and the players and the statistics.
+I mean, I really studied it.
+I really studied it.
+I didn't know most of the players took the books and just kind of left them in their rooms or whatever.
+But I really studied them.
+I knew the sets, I knew the percentages, I knew.
+And I just tried to be as prepared as possible because this was like I didn't want to mess up.
+This has been a game for Los Angeles that obviously they need to win.
+Lawson there eliminating from the playoffs, and here we go.
+Brian will take it.
+Right above Russell.
+Five seconds left.
+Four.
+Brian drives.
+Pull out.
+Shot on the way.
+No good.
+He got overtime.
+I'd say this for an 18-year-old to take this shot when it's on the line.
+Let's give him some credit for that.
+Feet go wide open.
+Kobe Bryant.
+The three is under air ball.
+And she starts to block the air ball.
+Just missed the ball.
+You can see how strong-minded he is because that hurts confidence, both in Kobe and his teammate scoring the ball.
+He has shot two air balls in a row.
+He's got to come up and play.
+Like it's nothing.
+He just missed the shot.
+That's all that happened.
+Bill Yorke.
+Brian Hicks will backs it out straight away to Kobe Bryant.
+Bryant for three.
+Jordan here.
+Air ball.
+Air ball.
+The odd record.
+Three times.
+He shot air ball.
+He's going to keep on going no matter what.
+When he fell ten times, that eleventh time is going to be great.
+It's not the eleventh time, the twelfth time is going to be great.
+But eventually it's going to happen.
+Fifteen seconds to go.
+A chance to tie.
+And Exo with it.
+A chance if it gets close to five.
+Bryant for the tie.
+Another air ball.
+It's over.
+It's over.
+I do believe.
+It's over.
+It's all over.
+We flew back to LA that night.
+And I got home.
+It was probably like three in the morning.
+And I went down to the high school.
+Which is down the street from our house.
+And the janitor let me in the gym.
+And I shot all day.
+All day.
+I mean all day.
+And this was right after that playoff game.
+And I didn't leave the gym.
+I just kept shooting and shooting and shooting and shooting and shooting and shooting and practicing and practicing.
+And I got a chance to let out the steam of disappointing my teammates and millions of fans.
+I got a chance to let all that out instead of bottling it up.
+And envision that moment over and over and over and over and over.
+That was a huge summer for me because I felt like everybody had ripped me off after those air balls.
+I was really excited when the schedule came out and I saw we had Utah.
+Tonight in the season opener the Los Angeles Lakers host the Utah Jazz.
+I came through really big in the clutch.
+Really big in the clutch.
+And I remember just feeling really vindicated.
+Like for me it was a really big deal.
+For the veterans they probably didn't give a shit about it.
+It was just another regular season game.
+But for me it was a big deal.
+You have come so far in one year.
+That's because you worked so hard in the summer.
+I definitely did.
+I was a student of the game.
+I tried to understand things that I wasn't doing very well last season.
+I tried to add them into my game.
+It's difficult because you have to break habits.
+So that was the hardest adjustment.
+But this year you're getting more minutes and obviously a guy can play better when he's not looking over his shoulder to see if the coach can take him out.
+But when you play more minutes you naturally get better because that's experience out there on the court.
+You're going to get all kinds of endorsements which you're already getting.
+You've got to get somebody that sells toothpaste.
+You've got beautiful teeth.
+Thank you very much.
+I appreciate it.
+Well he might be only 18 years and five months old.
+But this guy can do everything that the veterans can do and do it better perhaps.
+The most important thing is you must put everybody on notice that you're here and you're for real.
+I'm not a player that's just going to come and go.
+I'm not a player that's going to make an All-Star team one time, two times.
+I'm here to be an all-time great.
+Once I've made that commitment and said I want to be one of the greatest ever, then the game became everything for me.
+He's been voted by the fans to start in next Sunday's All-Star game, making him the youngest player in NBA All-Star history.
+He's got the ball in his hands again to Garnett.
+Back to Kobe.
+Have you ever seen a young man like Kobe Bryant so confident at his age and so mature?
+No, no, never.
+I think that he shows you things that a lot of, what are you talking about, a 19-year-old, a lot of guys 25 and 30, 35 can't even do.
+He faked a wraparound pass behind his back and sets the crowd on fire.
+It's like that scene in the movie where everything just magically happens the right way.
+Everything was clicking, playing the best basketball in my career, the physical aspect, the mental aspect, starting, my family, everything's just rolling.
+Kobe! Here's Bryant, six on the shot clock.
+Kobe Bryant, both teams battling for their collective lives.
+Kobe's outside hitter.
+I can remember winning the championship and kind of being like, well, okay, now what?
+So what happens now?
+What happens now?
+Holy shit, that champagne burns like a mother.
+All right, let's celebrate.
+Let's, you know, wave the champagne bottles around.
+Just don't drop it.
+You know, it seriously hurts so much if you drop it.
+And then outside of that, it was like, okay, now what?
+Back to back titles for the Los Angeles Lakers.
+Kobe Bryant is just 22 years old.
+There's nothing he can't do.
+He already has the total package.
+Shaquille O'Neal, historical.
+Unprecedented what he has done.
+Here's a guy who is dominating maybe more than any player in NBA history.
+And the beautiful thing is that they're just getting started.
+We're going to get another one next year again.
+Back to back to back.
+When you make a choice and say, come hell or high water, I'm going to be this, then you should not be surprised when you are that.
+It should not be something that's, that feels intoxicating or out of character because you haven't seen this moment for so long.
+You have played in your mind for so long that when that moment comes, it's like, of course it's here because it's been here the whole time, because it's been up here the whole time.
+That's what it feels like, at least for me.
+Chinese rakers have made it three straight in the World Championships.
+1840 angels.
+$750. Good luck.
+Donna.
+$2100.
+Actual retail price is $2,999.
+Donna.
+She's having an exercise.
+Everyone loves delicious baked potato, but cooking them in the oven takes 45 minutes.
+And when you put them in the microwave, they come out and change rye.
+Introducing Potato Express, the fastest, easiest way to cook perfect baked potato in just four minutes.
+Does it hurt?
+No, it feels a lot better.
+Anywhere else in your other stretch?
+No.
+When I wake up in the morning, I know it's tight right at the attachment of the tendon and the calcaneus.
+Down there?
+Yep.
+I don't even know how to spell calcaneus, but I know what the fuck it is.
+And I'll be able to communicate what the hell's wrong with you.
+I don't want my hair.
+I want it very special.
+Let's go.
+Let's go.
+Let's go.
+Playback.
+Welcome to my first video shoot.
+For those that don't know, yes, I had a budding music career as a rapper.
+It didn't last long, but I did make a video.
+And on the video set is where I first met Vanessa.
+I see the lovely young ladies that I haven't even met yet.
+How you doing?
+Hi.
+How are you?
+Nice to meet you.
+I'm Trinidad.
+Trinidad, how you doing?
+Thomas Senor.
+Thomas Senor.
+How you doing, Thomas Senor?
+Vanessa.
+Vanessa, how you doing?
+Hi.
+I wasn't a big-time basketball player at the time either, so it was like, you know,
+it's a pleasure to meet you.
+It was a two-day video shoot, and I was always looking for her.
+Like, I wanted to know where she was.
+I would finish the take and then go to my trailer, but I wondered where she is the entire
+time, and then come out of the trailer and just want to talk to her some more in between
+takes and stuff like that.
+And she wrote her phone number down at the time, but you had to still write phone numbers
+down.
+And I called her the very next day, and we talked for hours.
+She was just beautiful.
+We literally did everything together.
+Everything together.
+And I thought I was a big dork because I loved Disneyland.
+I loved the Disney movies and things like that, but I never really had a chance to go
+to the park much, and she was a big Disney fan too.
+We used to hang out at Disneyland.
+We used to go to Magic Mountain.
+She became my best friend, you know?
+And for me, it was very different to have somebody that I was so close to because I
+had been so used to growing up in isolation, really, and moving around from place to place
+and making new friends all the time.
+So I never really opened up to anybody because I knew I was just going to inevitably move.
+But now, you know, being in Los Angeles and feeling like I'm going to be a Laker for the
+rest of my life, I just met this beautiful woman that I just see the world the same way
+with.
+We decided to get married.
+I proposed.
+She said yes.
+We're both so young, right?
+So I'd wake up, and I'd go training, and I'd come back, and she'd still be in the bed
+sleeping like 18-year-olds do, man.
+She'd be asleep till like 12, 1 o'clock in the afternoon, man.
+And then I'd lay down with her.
+And I'd go to sleep again too.
+And then, you know, we'd wake up and just do what kids do.
+Do what kids do.
+I'd take her to the batting cage.
+We'd go hit some balls.
+We'd play miniature golf.
+We'd go to the movies.
+We'd go out to eat.
+It was just a beautiful time, man.
+When we had Natalia, it was like such a beautiful moment.
+You know, because we were starting our own family.
+I found so much enjoyment in just being with our baby girl.
+You know, it was great.
+You're putting together the nursery and, you know, the crib and all those weird baby
+Einstein, baby Mozart videos where you're kind of just hypnotizing your kid.
+We went through all of that stuff.
+When you're young, you really have a tendency to think about your own personal journey.
+And for us, it was about taking two young people and trying to figure out our journey
+together and try to grow together, which is a challenge.
+But when you have a kid, then it becomes even bigger than that because now you have
+responsibility of this little life that you have to mold.
+Going through this time made me ask a lot of questions and really try to figure out
+what's important in life and what's, you know, everything that I've kind of been holding
+as significant, you know, the championships and the endorsements and maybe that's not
+the most important thing because I lost sight of what is the most important thing and that's
+family.
+It's a man's job to protect your family.
+It's a man's job to look out for your family.
+It's a man's job to always be the anchor of stability for the family.
+And in that aspect, I failed miserably.
+I'd wake up in the morning and not know if, like, today is the day where I, like, I lose
+my family.
+Like, is this the day where it's a wrap?
+You know, like, you know, she's just had enough.
+One of the things that she said, she said, you know, during that time, you know, I hated
+your guts, but it wasn't about you.
+It was about, it was about Natalia.
+It was about the fact that I didn't want, I wanted to do everything possible to try
+to figure this thing out because I didn't want her growing up in a broken home.
+And things would have been really easy for her to leave, actually, especially during
+that time.
+It'd been much easier to leave.
+You leave, you take half the money, and you have your daughter.
+Life's, life's, she's good.
+But she didn't do that.
+We were expecting, and I'm expecting our second child during that time, and there was just
+so much, so much stress.
+She actually, you know, she actually miscarried.
+And, you know, and, you know, and something, I have a real hard time dealing with that,
+you know, because I felt like it was just my fault.
+You know what I mean?
+Like we should be building our family, you know, because of my mistake.
+Because it's a tough year.
+We're not, you know, we lost a baby, you know.
+You know, and, um, it's, uh, we, uh, try to justify the fact that, you know, we lost
+our, our common miscarriages are, and like, you know, these things happen, and like, um,
+you know, it's part of the process.
+But the reality is it happened because of me.
+That's the reality of it, you know.
+And, uh, that's something I have to, that's something I have to deal with.
+That's something I got to carry forever.
+Two o'clock, three o'clock in the morning, I would drive, I'd leave the house, and I'd go to the park.
+And I'd just sit in mid-court.
+I'd just sit there.
+I was sitting on the basketball.
+I was just looking out.
+I was looking up at the stars.
+I was looking at the basket and just kind of looking around.
+And, um, and then I saw myself.
+I saw myself, eight-year-old self, sitting in front of me on a ball.
+And then I thought, what would I say to me, knowing now all the pain that I would go through,
+my family would go through.
+I don't know if I'd keep playing the game.
+Even despite his great competitive nature, his will to win, his work ethic,
+you can't expect him to be the same dominant force at 36 and 37 as he was at 26 and 27.
+As Mark Jackson always said to me, father, time is undefeated, and it's the truth.
+In 2003, I went from a person that was at the top of his game,
+had everything coming to a year later having absolutely no idea where life is going
+or if you're going to be able to even be a part of life as we all know it.
+I hear everything that the crowd is saying.
+I hear it.
+So it's like this place where it was my refuge is now being bombarded with all kinds of things that they would say.
+I had to separate myself because going through that time,
+I felt like there were so many things coming at once.
+It was just becoming very, very confusing.
+I had to organize things.
+So I created the Black Mamba.
+So Kobe has to deal with these issues, all the personal challenges.
+The Black Mamba steps on the court and does what he does.
+It was just fuck everyone.
+I'm destroying everybody that stepped on the court.
+And the Lakers have won the Pacific Division title.
+I had all this pent up frustration that I just needed to let out.
+It was an avalanche, man.
+There was nothing that was going to get in the way.
+There was nothing that was going to stop me.
+This is the battle that's going on within me that I'm carrying with me to this competition.
+So it's not about you.
+It's not about anybody else.
+You're not making me go.
+I'm driving this thing, man, and you just so happen to be a person that's in a way that may get demolished in the process.
+He's got 57.
+He's got 67.
+Yes!
+There are seven people.
+And an 81-point game.
+Ladies and gentlemen, you have witnessed the second-greatest scoring performance in NBA history.
+Some people sit there and say, y'all keep talking about Kobe being the greatest player in the game today.
+Y'all don't realize that Kobe trying to be arguably the greatest ever.
+Your response?
+I got to get a couple more rings.
+Are you going to?
+Yeah, you know what?
+I won't rest until we do.
+I wanted to prove to myself that I could win under a different role, so to speak.
+Looking at these incredible teams that have been assembled, there's always a dynamic duo.
+And when that duo went separate ways, one was never able to win without the other.
+And I just felt like it was really important for myself as well as for the challenge from others.
+It's to prove that I can lead this team my way.
+I can put my DNA on the team and carry them to a championship.
+Buzz is back in Boston.
+Celtics fans have waited 21 years for this moment.
+A chance to play for their 17th championship.
+But look who's standing in the way.
+The NBA's MVP, Kobe Bryant and the Lakers.
+The greatest robbery in the history of the sport is ready for its next chapter.
+Kobe's led the league in scoring.
+He's won all-star MVPs.
+He's won championships.
+But he's different this year, Magic.
+What's the best advice you gave him before the season?
+Well, I pulled him aside and said, hey, if you want to be considered like Michael Jordan,
+you have to now make your teammates better.
+You have to become a better leader and then you have to trust your teammates.
+He's taken the guys out to dinner three or four times this year.
+He never did that before.
+No, never did it before.
+But look at him now.
+That's why they're in the championship.
+We were naturally assholes.
+We ran into a team that wasn't that.
+They were just much, much tougher, much, much meaner, much nastier.
+And they whooped us pretty good.
+And for 22-year-olds, it's the Boston Suns.
+NBA champions once again.
+NBA wins the ball!
+I overcompensated for how I drove my teammates.
+It was thinking maybe I was too hard on them.
+And so throughout the course of the year, I didn't challenge them enough.
+It was just about not being as gregarious.
+Put my arm around you even when you fuck up.
+Oh, you're doing great. You're doing great.
+That's just not me.
+Kobe, you won the MVP. You led the team to the finals.
+How do you characterize this season?
+Well, I mean, the goal was to win a championship.
+It wasn't to win MVP or anything like that.
+It was to win a championship.
+So from that aspect, we failed.
+If I'm going to go down, I'm going to go down my way and lead in my way.
+And this team is going to have my personality.
+They're going to have my grit.
+They're going to have my fight.
+They're going to have my will, my competitive spirit.
+And so when we step on that basketball court, you're not facing me and just my competitive fire,
+but you're facing 12 of those.
+And the challenge became, how do I get that done?
+For me, it is that ferocity or that anger or rage, and I can carry that with me.
+But now it became, how do I instill this to the rest of my guys, to the rest of my team?
+Using the darker emotions, the anger or resentment or frustration and sadness,
+and using that as a weapon, using that as a form of offense.
+It's a scar. It's pain. It's a bad memory.
+Some people are probably afraid to tap into that side of them, but it's such a powerful thing.
+Once they own it themselves, then the sky is the limit,
+because they're going to drive themselves and pull it from who they are
+and all of their life experiences and things that have motivated them.
+Get your whole ass up.
+As a matter of fact, put your hands off me. Don't touch me with the rest of the scrimmage.
+Get your hands off me.
+Just start driving, needling, pushing.
+The smoke has cleared and two remain standing.
+The Lakers and Magic tipping off the 2009 NBA Finals in L.A.
+Kobe Bryant, as focused as I've ever seen him in his entire career.
+You talk about a guy with one mindset. That's the win.
+They had to embrace the villain nature that's in all of us.
+They gave a platform to unleash.
+What a run for the Lakers.
+Derek Fischer with another clutch swing.
+The Lakers are NBA champions once again.
+Congratulations, Kobe Bryant, your fourth NBA championship.
+How are you different as a man and a player than you were seven years ago
+the last time you won a championship?
+I think you just get better. You just grow as a person, you grow as a man,
+and you just try to figure out the best way to lead these guys.
+The most storied NBA rivalry renewed the Lakers and Celtics.
+Kobe Bryant, hungry for title number five personally for number 16 for his franchise.
+The Lakers have kind of played flag football.
+They better get ready for tackle football tonight,
+because the Boston Celtics are going to hit them.
+How are the Lakers going to react?
+The proposition of losing to these guys in the Finals again,
+and knowing what that means as a Laker fan,
+and having watched Jerry West lose to the Celtics over and over and over again
+in the duel between Magic and Bird,
+and now I am a part of this incredible rivalry,
+and what it's going to say about us, this team, is that we lost to the Celtics twice.
+And I don't think so.
+I don't think so.
+The Lakers turn back out and tackle Vince.
+The Lakers put up a three.
+One goal, rebound, it's solved.
+It's now to Odom.
+Odom throws it ahead.
+The Lakers repeat back to back titles.
+The L.A. Lakers, the 2,000th time NBA champions.
+After we did that, we have a bond now that unites us forever.
+Forever.
+We have a bond that will never be broken,
+because the lion looked us in the face and we looked back.
+The challenge was not only to win one, but it was to win multiple ones,
+and to be able to sit at the same lunch table with my muses, Michael, Magic,
+I want to be able to sit down at the same table with them and belong there.
+I want to be able to be able to be a part of that.
+I want to be able to be a part of that.
+I want to be able to be a part of that.
+I want to be able to sit down at the same table with them and belong there,
+and I'm very proud to be able to say I can do that.
+I do think with Kobe there is a whole lot of pride in it,
+just as there's pride in a lot of players,
+but that if his level dips and he's just another guy,
+I don't think he wants any part of that at all.
+I don't think he wants any part of that at all.
+Let's see.
+It's constant stretching, it's constant ice baths,
+it's constant modalities and massage and eating the right things,
+drinking the right things.
+It's a lifestyle, it's a full-time commitment,
+and I'm no spring chicken, but that's okay.
+I can figure my way around it.
+This is going to be, for all intents and purposes,
+the first time we have seen Kobe Bryant since Terry Nicholas.
+This is hopefully the foundation for Kobe's success.
+This is hopefully the foundation for Kobe's success.
+This is hopefully the foundation for Kobe's success.
+This is hopefully the foundation for Kobe moving forward,
+recovering from that injury,
+and as he will tell you, he is stoked out of his mind to be there.
+I can feel the energy in the building,
+the sounds of the cameras flashing,
+the smell of popcorn,
+like the sounds of people walking around preparing for the game.
+You can feel the intensity in the air.
+There's an energy that you can tap into,
+it's like a frequency that you can tap into.
+Once you feel it, then everything becomes you,
+and you become everything.
+And the other guard wears number 24, six-sits,
+19th season from Lorne Marion High School,
+Kobe Bryant!
+I love what I do.
+It's as simple as that.
+There's...
+I get so much enjoyment.
+The game has made me a better man,
+a better husband, a better father,
+a better friend,
+a better teacher,
+a better brother,
+a better father to my family,
+a better father to my family.
+A good father,
+a good brother,
+somebody to love,
+somebody to take care of,
+somebody to love,
+somebody to love,
+A man, a better husband, a better father, you know, a better friend, you know, a better teacher.
+It's helped me figure out who I am.
+It's been my confidant, you know, it's been my best friend, psychiatrist, everything.
+It's the seed that started everything for me. Everything grew from this ball.
+His 19th year in the NBA, that man right there, Kobe Bryant, stands at 32,291 points.
+One behind Michael George for third all-time on the scoring list, the crowd on its feet.
+Step aside, FJ, the bomba has moved from right on by him.
+Kobe Bryant has passed Michael Jordan and is now number three on the NBA's all-time scoring list.
+As I sit here now, when I take off my shoe and I look down at my scar, I see beauty in that.
+Because I see all the hard work, all the sacrifices. I see that journey that it took to get back to this point of being healthy.
+And I see the beauty in that struggle. That's what makes it beautiful.
+Kobe ducks it home as he goes baseline.
+Wow. Yeah, that right on, boy. It's just there.
+That's on his shooting shoulder. But it's just a sore right shoulder is what the Lakers are calling it.
+Kobe has gone back to the locker room.
+That will be the top of the conversation throughout the next day or so.
+Let's see what kind of strength you have here.
+That's where the damage is to your cuff.
+Let me see you raise it to the side.
+Don't let me rotate it down. Resist me. Any pain?
+And keep your elbow pointed out towards me. Now I want to feel how much pressure you can put. Push in. Good. Good. Good. Good. Okay.
+This dark area here, that's the rotator cuff cable. It's not attaching to bone here.
+So there's only one direction that this tear is going to go. It's going to get worse. This is not going to get better.
+This tear is a pretty big tear already.
+Your normal daily function, aside from basketball, raising your arm, doing activities of daily living, certainly lifting your kids, playing around.
+That sort of thing with the arm in this position is going to get tougher.
+I think that this is going to need to be fixed because it will cause a problem for you.
+And we like to try to fix these things when you're younger and the tear is smaller.
+And what's best for your shoulder is to get it fixed soon.
+I just don't know if I want to deal with another fucking month or some shit.
+I know. And it seems that with the way your injuries have happened, the second part of your season, your off season, has been dominated by rehab and off season.
+It's...
+At what point do you feel like you're holding on, holding on, holding on to something that's not there?
+Where at what point is your determination and your drive become unreasonable or something that's just not possible?
+I don't know.
+I don't know.
+When do you know?
+When does that moment happen when you know now is the time to let go?
+This is the moment to walk away.
+Do you ever truly know that?
+I don't know if you do. I don't know if there's ever a moment which is the right moment.
+I don't know if that moment ever comes.
+I don't know if that moment ever comes.
+Who determines when it's up for you?
+When we say this cannot be accomplished, this cannot be done, then we are shortchanging ourselves.
+My brain cannot, it cannot process failure. It will not process failure.
+Because if I have to, if I sit there and have to face myself and tell myself, you're a failure, I think that's a worse, that's almost worse than death.
+I don't know.
+I don't know.
+Your love is bright as ever, even in the shadows.
+Baby, kiss me before they turn the lights out.
+Baby, kiss me before they turn the lights out.
+Baby, love me lights out.
+In the darkest night, I search through the crowd.
+Your face is all that I see.
+I'll give you everything.
+Baby, love me lights out.
+Baby, love me lights out.

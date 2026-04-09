@@ -1,0 +1,17 @@
+{
+  "title": "Kobe: The Interview with Ahmad Rashad",
+  "date": "2015-02",
+  "source": "NBA TV",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=yVozBmgq2Fk",
+  "interviewer": "Ahmad Rashad",
+  "themes": [
+    "leadership",
+    "social",
+    "legacy"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

@@ -1,0 +1,16 @@
+{
+  "title": "In Depth with Graham Bensinger (Re-release)",
+  "date": "2021-08",
+  "source": "Graham Bensinger",
+  "type": "video_interview",
+  "url": "https://grahambensinger.com/2021/08/03/kobe-bryant/",
+  "interviewer": "Graham Bensinger",
+  "themes": [
+    "life",
+    "mentality"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "edited_transcript",
+  "extraction_status": "pending_manual",
+  "failure_reason": "grahambensinger.com connection refused; site may be down"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Preseason Halftime Interview with Chick Hearn",
+  "date": "1996-10",
+  "source": "Local Broadcast",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=s5JFEzp4DZU",
+  "interviewer": "Chick Hearn",
+  "themes": [
+    "work",
+    "mentality"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

@@ -1,0 +1,17 @@
+{
+  "title": "The Last Alpha Dog",
+  "date": "2013-10",
+  "source": "Sports Illustrated",
+  "type": "text_article",
+  "url": "https://www.si.com/nba/2013/10/23/kobe-bryant-lakers",
+  "interviewer": "Lee Jenkins",
+  "themes": [
+    "mentality",
+    "legacy",
+    "work"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "edited_transcript",
+  "extraction_status": "success",
+  "failure_reason": null
+}

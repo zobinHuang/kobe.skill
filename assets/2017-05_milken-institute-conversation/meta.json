@@ -1,0 +1,17 @@
+{
+  "title": "End of an Era: A Conversation With NBA Great Kobe Bryant",
+  "date": "2017-05",
+  "source": "Milken Institute Global Conference",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=5ma2oQfiLF4",
+  "interviewer": "Jim Gray",
+  "themes": [
+    "work",
+    "life",
+    "legacy"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

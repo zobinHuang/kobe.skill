@@ -1,0 +1,17 @@
+{
+  "title": "81-Point Game Post-Game Press Conference",
+  "date": "2006-01",
+  "source": "NBA TV / FSN West",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=kEAEKQ8rKCs",
+  "interviewer": "N/A",
+  "themes": [
+    "work",
+    "mentality",
+    "life"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

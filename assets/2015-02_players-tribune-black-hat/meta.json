@@ -1,0 +1,16 @@
+{
+  "title": "The Black Hat",
+  "date": "2015-02",
+  "source": "The Players' Tribune",
+  "type": "text_article",
+  "url": "https://www.theplayerstribune.com/articles/the-black-hat",
+  "interviewer": "N/A",
+  "themes": [
+    "mentality",
+    "legacy"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "excerpts_only",
+  "extraction_status": "pending_manual",
+  "failure_reason": "Players' Tribune JS-rendered content; only metadata extracted"
+}

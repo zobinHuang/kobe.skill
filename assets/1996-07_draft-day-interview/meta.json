@@ -1,0 +1,16 @@
+{
+  "title": "Kobe Bryant 1996 Draft Day Interview & Trade Story",
+  "date": "1996-07",
+  "source": "Yahoo Sports / NBA Archive",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=eIm_byShLm8",
+  "interviewer": "N/A",
+  "themes": [
+    "mentality",
+    "social"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

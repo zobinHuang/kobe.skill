@@ -1,0 +1,16 @@
+{
+  "title": "1998 NBA All-Star Game Media Availability",
+  "date": "1998-02",
+  "source": "NBCLA",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=ijl_ILResKI",
+  "interviewer": "N/A",
+  "themes": [
+    "mentality",
+    "work"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

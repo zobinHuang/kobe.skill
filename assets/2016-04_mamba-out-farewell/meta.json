@@ -1,0 +1,17 @@
+{
+  "title": "Mamba Out: Farewell Speech and Post-Game Press Conference",
+  "date": "2016-04",
+  "source": "ESPN / NBA",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=gOhx_Fv8XTQ",
+  "interviewer": "N/A",
+  "themes": [
+    "legacy",
+    "life",
+    "social"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Kobe Bryant on 60 minutes with Charlie Rose",
+  "date": "2001-10",
+  "source": "60 Minutes",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=AyXnilND0XM",
+  "interviewer": "Charlie Rose",
+  "themes": [
+    "mentality",
+    "life"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

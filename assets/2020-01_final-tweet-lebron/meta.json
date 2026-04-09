@@ -1,0 +1,16 @@
+{
+  "title": "Final Tweet Congratulating LeBron James",
+  "date": "2020-01",
+  "source": "Twitter / Instagram",
+  "type": "social_post",
+  "url": "https://www.reddit.com/r/lakers/comments/euepby/kobes_last_post_on_twitter_and_instagram_was/",
+  "interviewer": "N/A",
+  "themes": [
+    "social",
+    "legacy"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "edited_transcript",
+  "extraction_status": "success",
+  "failure_reason": null
+}

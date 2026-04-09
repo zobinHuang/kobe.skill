@@ -1,0 +1,15 @@
+{
+  "title": "Kobe Bryant's First Tweet",
+  "date": "2013-01",
+  "source": "Twitter",
+  "type": "social_post",
+  "url": "https://mashable.com/article/kobe-bryan-twitter",
+  "interviewer": "N/A",
+  "themes": [
+    "social"
+  ],
+  "extraction_method": "manual_override",
+  "transcript_quality": "manual",
+  "extraction_status": "success",
+  "failure_reason": null
+}

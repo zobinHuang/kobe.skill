@@ -1,0 +1,16 @@
+{
+  "title": "The Mamba Mentality: How I Play",
+  "date": "2018-10",
+  "source": "MCD / Macmillan",
+  "type": "book",
+  "url": "https://en.wikipedia.org/wiki/The_Mamba_Mentality:_How_I_Play",
+  "interviewer": "N/A",
+  "themes": [
+    "work",
+    "mentality"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "excerpts_only",
+  "extraction_status": "success",
+  "failure_reason": null
+}

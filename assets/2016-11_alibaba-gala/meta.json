@@ -1,0 +1,16 @@
+{
+  "title": "Alibaba 11.11 Countdown Gala",
+  "date": "2016-11",
+  "source": "Alibaba Group",
+  "type": "speech",
+  "url": "https://www.marketing-interactive.com/kobe-bryant-dunks-alibabas-11-11-countdown-gala",
+  "interviewer": "N/A",
+  "themes": [
+    "social",
+    "work"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "excerpts_only",
+  "extraction_status": "success",
+  "failure_reason": null
+}

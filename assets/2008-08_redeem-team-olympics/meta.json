@@ -1,0 +1,17 @@
+{
+  "title": "The Redeem Team: Olympic Interviews and Segments",
+  "date": "2008-08",
+  "source": "Netflix (Documentary Feature) / AP News",
+  "type": "text_article",
+  "url": "https://apnews.com/article/redeem-team-basketball-hall-of-fame-2bf62c2d995b980bc6b0c7118f656afb",
+  "interviewer": "N/A",
+  "themes": [
+    "leadership",
+    "social",
+    "work"
+  ],
+  "extraction_method": "manual_override",
+  "transcript_quality": "manual",
+  "extraction_status": "success",
+  "failure_reason": null
+}

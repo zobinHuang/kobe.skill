@@ -1,0 +1,15 @@
+{
+  "title": "Inaugural Appearance on Jimmy Kimmel Live",
+  "date": "2003-01",
+  "source": "ABC",
+  "type": "video_interview",
+  "url": "https://www.tvmaze.com/shows/1388/jimmy-kimmel-live/episodeguide",
+  "interviewer": "Jimmy Kimmel",
+  "themes": [
+    "social"
+  ],
+  "extraction_method": null,
+  "transcript_quality": null,
+  "extraction_status": "pending_manual",
+  "failure_reason": "URL points to episode guide, not video content. No YouTube or transcript source found."
+}

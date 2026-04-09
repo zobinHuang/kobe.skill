@@ -1,0 +1,16 @@
+{
+  "title": "Jimmy Kimmel Live: Post-Championship Appearance",
+  "date": "2009-06",
+  "source": "ABC",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=zoskjoqRt0U",
+  "interviewer": "Jimmy Kimmel",
+  "themes": [
+    "social",
+    "work"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

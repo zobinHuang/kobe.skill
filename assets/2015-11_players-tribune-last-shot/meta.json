@@ -1,0 +1,15 @@
+{
+  "title": "The Last Shot",
+  "date": "2015-11",
+  "source": "The Players' Tribune",
+  "type": "text_article",
+  "url": "https://www.theplayerstribune.com/articles/kobe-bryant-lakers-photo-gallery",
+  "interviewer": "N/A",
+  "themes": [
+    "legacy"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "excerpts_only",
+  "extraction_status": "pending_manual",
+  "failure_reason": "Players' Tribune JS-rendered content; only metadata extracted"
+}

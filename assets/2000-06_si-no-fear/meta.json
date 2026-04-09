@@ -1,0 +1,16 @@
+{
+  "title": "No Fear: NBA Championship Run",
+  "date": "2000-06",
+  "source": "Sports Illustrated",
+  "type": "text_article",
+  "url": "https://www.si.com/nba/2020/01/26/kobe-bryant-through-the-years",
+  "interviewer": "N/A",
+  "themes": [
+    "mentality",
+    "leadership"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "edited_transcript",
+  "extraction_status": "success",
+  "failure_reason": null
+}

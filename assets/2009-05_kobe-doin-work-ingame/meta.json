@@ -1,0 +1,16 @@
+{
+  "title": "Kobe Doin' Work: In-Game Triangle Offense Audio",
+  "date": "2009-05",
+  "source": "ESPN Films",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=1Fv78gE3u5w",
+  "interviewer": "Spike Lee",
+  "themes": [
+    "leadership",
+    "work"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

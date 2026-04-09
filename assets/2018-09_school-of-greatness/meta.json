@@ -1,0 +1,17 @@
+{
+  "title": "The School of Greatness Interview",
+  "date": "2018-09",
+  "source": "The School of Greatness Podcast",
+  "type": "video_interview",
+  "url": "https://lewishowes.com/podcast/kobe-bryant-mamba-mentality-nba-championships-and-oscars/",
+  "interviewer": "Lewis Howes",
+  "themes": [
+    "mentality",
+    "work",
+    "legacy"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Kobe Bryant's 2017 Interview on First Take",
+  "date": "2017-03",
+  "source": "ESPN",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=TAwjRiKY9GI",
+  "interviewer": "Stephen A. Smith, Max Kellerman",
+  "themes": [
+    "social",
+    "mentality"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

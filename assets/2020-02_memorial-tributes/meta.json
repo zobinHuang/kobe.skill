@@ -1,0 +1,17 @@
+{
+  "title": "Memorial Tributes (Jordan, Shaq, Vanessa)",
+  "date": "2020-02",
+  "source": "Staples Center Memorial",
+  "type": "speech",
+  "url": "https://www.latimes.com/sports/lakers/story/2020-02-24/kobe-bryant-memorial-read-all-the-speeches",
+  "interviewer": "N/A",
+  "themes": [
+    "legacy",
+    "life",
+    "social"
+  ],
+  "extraction_method": null,
+  "transcript_quality": null,
+  "extraction_status": "pending_manual",
+  "failure_reason": "LA Times, CNN, USA Today, ESPN all blocked. Speech texts need manual provision."
+}

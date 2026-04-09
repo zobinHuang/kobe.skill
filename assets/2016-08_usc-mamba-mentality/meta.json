@@ -1,0 +1,17 @@
+{
+  "title": "Kobe Bryant at USC | Mamba Mentality",
+  "date": "2016-08",
+  "source": "USC Marshall School of Business",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=T5-vgyEbtPU",
+  "interviewer": "David Belasco",
+  "themes": [
+    "work",
+    "mentality",
+    "legacy"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

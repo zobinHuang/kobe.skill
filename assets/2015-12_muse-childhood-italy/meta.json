@@ -1,0 +1,16 @@
+{
+  "title": "Kobe Bryant's Muse: Childhood in Italy Segment",
+  "date": "2015-12",
+  "source": "Showtime",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=oo13niMuo4k",
+  "interviewer": "N/A",
+  "themes": [
+    "life",
+    "work"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

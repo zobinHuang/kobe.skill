@@ -1,0 +1,17 @@
+{
+  "title": "Father Time: Kobe Inc.",
+  "date": "2014-08",
+  "source": "Sports Illustrated",
+  "type": "text_article",
+  "url": "https://www.si.com/nba/2014/08/11/kobe-bryant-lakers-father-time",
+  "interviewer": "N/A",
+  "themes": [
+    "work",
+    "legacy",
+    "life"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "edited_transcript",
+  "extraction_status": "success",
+  "failure_reason": null
+}

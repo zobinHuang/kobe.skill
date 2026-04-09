@@ -1,0 +1,16 @@
+{
+  "title": "Kobe Bryant on The Tonight Show with Jay Leno",
+  "date": "1996-11",
+  "source": "NBC",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=GQ_adibumDQ",
+  "interviewer": "Jay Leno",
+  "themes": [
+    "social",
+    "life"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Kobe Bryant sits down with Ahmad Rashad",
+  "date": "2010-08",
+  "source": "NBA TV",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=rgY4zylpl54",
+  "interviewer": "Ahmad Rashad",
+  "themes": [
+    "leadership",
+    "social"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

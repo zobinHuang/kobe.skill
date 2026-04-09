@@ -1,0 +1,17 @@
+{
+  "title": "All The Smoke Podcast Episode 11",
+  "date": "2020-01",
+  "source": "Showtime Basketball",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=3R3KIyEgCgc",
+  "interviewer": "Matt Barnes, Stephen Jackson",
+  "themes": [
+    "life",
+    "leadership",
+    "social"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

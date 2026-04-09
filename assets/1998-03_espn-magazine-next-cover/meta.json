@@ -1,0 +1,16 @@
+{
+  "title": "NEXT Issue Cover Story (Inaugural Issue)",
+  "date": "1998-03",
+  "source": "ESPN The Magazine",
+  "type": "text_article",
+  "url": "https://en.wikipedia.org/wiki/ESPN_The_Magazine",
+  "interviewer": "N/A",
+  "themes": [
+    "legacy",
+    "social"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "excerpts_only",
+  "extraction_status": "success",
+  "failure_reason": null
+}

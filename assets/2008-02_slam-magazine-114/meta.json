@@ -1,0 +1,16 @@
+{
+  "title": "SLAM Magazine Issue 114 Cover Story",
+  "date": "2008-02",
+  "source": "SLAM Magazine",
+  "type": "text_article",
+  "url": "https://slamonline.com/nba/check-kobe-bryants-iconic-slam-covers/",
+  "interviewer": "N/A",
+  "themes": [
+    "work",
+    "social"
+  ],
+  "extraction_method": null,
+  "transcript_quality": null,
+  "extraction_status": "pending_manual",
+  "failure_reason": "web_fetch blocked (403), archive.org also blocked"
+}

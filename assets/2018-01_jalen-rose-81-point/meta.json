@@ -1,0 +1,16 @@
+{
+  "title": "Interview with Jalen Rose on 81-Point Game",
+  "date": "2018-01",
+  "source": "ESPN",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=JRZxscy-uDs",
+  "interviewer": "Jalen Rose",
+  "themes": [
+    "mentality",
+    "work"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

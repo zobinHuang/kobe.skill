@@ -1,0 +1,16 @@
+{
+  "title": "The Rich Eisen Show Interview",
+  "date": "2018-08",
+  "source": "The Rich Eisen Show",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=v3qrnCLDzCA",
+  "interviewer": "Rich Eisen",
+  "themes": [
+    "social",
+    "leadership"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

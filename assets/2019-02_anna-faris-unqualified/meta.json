@@ -1,0 +1,16 @@
+{
+  "title": "Anna Faris Is Unqualified",
+  "date": "2019-02",
+  "source": "Unqualified Podcast",
+  "type": "video_interview",
+  "url": "https://unqualified.com/episodes/kobe-bryant/",
+  "interviewer": "Anna Faris",
+  "themes": [
+    "life",
+    "social"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

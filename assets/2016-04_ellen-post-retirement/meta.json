@@ -1,0 +1,15 @@
+{
+  "title": "Post-Retirement Interview on Ellen",
+  "date": "2016-04",
+  "source": "The Ellen DeGeneres Show",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=T0jM37coZPo",
+  "interviewer": "Ellen DeGeneres",
+  "themes": [
+    "life"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

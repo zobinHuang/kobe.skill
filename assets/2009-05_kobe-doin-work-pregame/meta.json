@@ -1,0 +1,16 @@
+{
+  "title": "Kobe Doin' Work: Pre-Game Preparation Segment",
+  "date": "2009-05",
+  "source": "ESPN Films",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=1Fv78gE3u5w",
+  "interviewer": "Spike Lee",
+  "themes": [
+    "work",
+    "mentality"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

@@ -1,0 +1,17 @@
+{
+  "title": "In Depth with Graham Bensinger",
+  "date": "2012-09",
+  "source": "In Depth with Graham Bensinger",
+  "type": "video_interview",
+  "url": "https://grahambensinger.com/2021/08/03/kobe-bryant/",
+  "interviewer": "Graham Bensinger",
+  "themes": [
+    "life",
+    "social",
+    "mentality"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Jimmy Fallon Beer Run Story",
+  "date": "2015-02",
+  "source": "The Tonight Show Starring Jimmy Fallon",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=ZOXo4Z8josI",
+  "interviewer": "Jimmy Fallon",
+  "themes": [
+    "life",
+    "social"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-small",
+  "extraction_status": "success",
+  "failure_reason": null
+}

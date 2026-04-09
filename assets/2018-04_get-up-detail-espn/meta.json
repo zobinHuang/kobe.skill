@@ -1,0 +1,16 @@
+{
+  "title": "Discussing 'Detail' on ESPN+",
+  "date": "2018-04",
+  "source": "Get Up (ESPN)",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=79pCl52iwRk",
+  "interviewer": "Jalen Rose, Mike Greenberg",
+  "themes": [
+    "work",
+    "mentality"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

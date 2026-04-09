@@ -1,0 +1,17 @@
+{
+  "title": "Dear Basketball Oscar Acceptance Speech",
+  "date": "2018-03",
+  "source": "Academy Awards",
+  "type": "speech",
+  "url": "https://aaspeechesdb.oscars.org/link/090-18/",
+  "interviewer": "N/A",
+  "themes": [
+    "work",
+    "social",
+    "legacy"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "edited_transcript",
+  "extraction_status": "pending_manual",
+  "failure_reason": "Oscar speeches database timed out; known speech text included but may need verification"
+}

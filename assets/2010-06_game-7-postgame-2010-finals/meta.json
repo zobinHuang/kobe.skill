@@ -1,0 +1,17 @@
+{
+  "title": "Game 7 Post-Game Interview: 2010 NBA Finals",
+  "date": "2010-06",
+  "source": "NBA TV",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=6okxpJ6z9-o",
+  "interviewer": "Rick Kamla, Brent Barry, Steve Smith",
+  "themes": [
+    "mentality",
+    "legacy",
+    "work"
+  ],
+  "extraction_method": "whisper",
+  "transcript_quality": "whisper-medium",
+  "extraction_status": "success",
+  "failure_reason": null
+}

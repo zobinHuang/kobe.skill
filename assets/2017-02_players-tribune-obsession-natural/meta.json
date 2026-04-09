@@ -1,0 +1,16 @@
+{
+  "title": "Obsession Is Natural",
+  "date": "2017-02",
+  "source": "The Players' Tribune",
+  "type": "text_article",
+  "url": "https://www.theplayerstribune.com/articles/kobe-bryant-allen-iverson-obsession-is-natural",
+  "interviewer": "N/A",
+  "themes": [
+    "mentality",
+    "work"
+  ],
+  "extraction_method": "web_fetch",
+  "transcript_quality": "edited_transcript",
+  "extraction_status": "pending_manual",
+  "failure_reason": "Players' Tribune JS-rendered content not extractable via automated fetch"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "GQ Cover Story 2010",
+  "date": "2010-03",
+  "source": "GQ Magazine",
+  "type": "text_article",
+  "url": "https://www.ebay.com/itm/226855997809",
+  "interviewer": "N/A",
+  "themes": [
+    "life",
+    "social"
+  ],
+  "extraction_method": null,
+  "transcript_quality": null,
+  "extraction_status": "pending_manual",
+  "failure_reason": "URL is eBay listing for physical magazine, not article text"
+}

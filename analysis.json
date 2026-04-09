@@ -1,0 +1,1203 @@
+{
+  "total_sources": 87,
+  "successfully_extracted": 62,
+  "failed_extraction": 25,
+  "themes": {
+    "work": ["deliberate_practice", "competitive_obsession", "detail_orientation", "pain_tolerance", "craft_mastery"],
+    "life": ["fatherhood", "retirement_transition", "creative_pursuit", "legacy_building", "identity_beyond_basketball"],
+    "social": ["teammate_dynamics", "mentorship", "rivalry_as_respect", "leadership_style", "vulnerability"]
+  },
+  "insights": [
+    {
+      "id": "INS-001",
+      "theme": "work",
+      "sub_theme": "deliberate_practice",
+      "principle": "Long-term incremental improvement through daily fundamentals beats reliance on natural athleticism.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "Scored zero points entire summer at age 10-11 in Sonny Hill League. Father hugged him and said 'whether you score zero or score 60 I'm going to love you no matter what.' Then created a menu of skills to work on sequentially - shooting for 6 months, then creating own shot, etc. By 14 was best player in the state.",
+          "context": "Kobe describing his childhood development to Lewis Howes"
+        },
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "Had to look at it from a long term because I wasn't going to give up on the game. So I had to say okay this year I'm going to get better at that, next year this, and so forth and so on, and then patiently I was able to catch them.",
+          "context": "Kobe explaining to Jay Shetty how he overcame being the scrawny kid from Italy"
+        },
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "If you do the math... if you're obsessively training 2-3 hours every single day over a year, over two years, they accelerate, you make quantum leaps.",
+          "context": "Kobe explaining youth development philosophy at USC"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "The thing that was always the most constant was the game. And that was my refuge. That was the place where I could go and have complete familiarity, no matter where I was. Whether it was Rieti, or Reggio Calabria, Reggio Milla, Pistoia, didn't matter.",
+          "context": "Muse documentary on basketball as the constant through childhood upheaval in Italy"
+        },
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "I was a student of the game. I tried to understand things that I wasn't doing very well last season. I tried to add them into my game. It's difficult because you have to break habits. So that was the hardest adjustment.",
+          "context": "Graham Bensinger interview, Kobe on incremental improvement after his rookie season air-ball playoff game"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "cross-era (childhood through post-retirement)"
+    },
+    {
+      "id": "INS-002",
+      "theme": "work",
+      "sub_theme": "detail_orientation",
+      "principle": "Obsessive film study transforms game speed - hours of film review make the live game appear to move in slow motion.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "Tex Winter at 82 years old made him watch every game start to finish - not TV feed but in-arena feed, including layup lines and timeouts. 'Because I watched so much film then it gave me the ability to see the game in real time as if I was watching film... the game's not moving that fast anymore.'",
+          "context": "Kobe describing learning from Tex Winter during Phil Jackson's first year"
+        },
+        {
+          "asset_path": "assets/2009-05_kobe-doin-work-pregame/transcript.md",
+          "quote_or_paraphrase": "Phil and I can just talk about execution. Because we both love the same thing. We love basketball, we love details... That's made me such a better player being able to have a coach that is so detail oriented.",
+          "context": "Kobe's commentary during Spike Lee's documentary"
+        },
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "The way I grew up from Tex Winter, Phil Jackson... film was broken down to the smallest detail - the right angle, foot placement, timing, looking at the posture of a teammate, watching players going to timeouts, who's talking to who.",
+          "context": "Kobe explaining his Detail show concept at USC"
+        },
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "As a kid I would study bubblegum basketball cards - you could kind of see the little intricacies of each move. Toe pointing a little this way, body positioning, defensive stance, where the weight is on the defensive player, where the player's head is when he's shooting.",
+          "context": "Graham Bensinger interview, Kobe on studying basketball cards for micro-detail as a child"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "championship_peak (1999-2010)"
+    },
+    {
+      "id": "INS-003",
+      "theme": "work",
+      "sub_theme": "competitive_obsession",
+      "principle": "Work ethic as psychological warfare - showing opponents you will outwork them to break their confidence before the game starts.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "At All-American camp as a sophomore, while everybody was at the cafeteria eating, he would go back to the gym. 'You're in a tough position because you're like okay I want to follow the kid to go work out but I know he's up early... that was my way of showing them, maybe from the suburbs, but you're not going to outwork me.'",
+          "context": "Kobe describing early psychological tactics to Lewis Howes"
+        },
+        {
+          "asset_path": "assets/2019-09_knuckleheads-podcast/transcript.md",
+          "quote_or_paraphrase": "I was obsessive, bro. I was really obsessive about this game and to me everything was competitive advantage as well. I didn't want to be around guys that see me out and knowing I'm not working.",
+          "context": "Kobe explaining his lifestyle choices to Quentin Richardson and Darius Miles"
+        },
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "I used to play the Halloween theme song over and over and over in my headphones pregame... it was important that it was Michael Myers because the mask itself was the void of emotion. Stone-cold killer.",
+          "context": "Kobe describing his alter ego pregame ritual to Patrick Bet-David"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "So you can't possibly become better than me because you're not spending the time on it that I do. Even if you want to spend the time on it, you can't because you have other things. You have other responsibilities that are taking you away from it. So I already won.",
+          "context": "Muse documentary, 18-year-old Kobe's conviction that his singular focus made him unbeatable"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "cross-era (high school through late career)"
+    },
+    {
+      "id": "INS-004",
+      "theme": "work",
+      "sub_theme": "pain_tolerance",
+      "principle": "When the mission is more important than the injury, pain becomes irrelevant - reframing physical suffering through purpose.",
+      "evidence": [
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "If a fire breaks out in the home, your kids are upstairs... you're gonna forget about your hamstring, you're gonna sprint upstairs. When the game is more important than the injury itself, you don't feel that damage.",
+          "context": "Kobe explaining how he shot free throws after tearing his Achilles"
+        },
+        {
+          "asset_path": "assets/2013-10_si-last-alpha-dog/content.md",
+          "quote_or_paraphrase": "I have self-doubt. I have insecurity. I have fear of failure. I have nights when I show up at the arena and I'm like, 'My back hurts, my feet hurt, my knees hurt. I don't have it. I just want to chill.' We all have self-doubt. You don't deny it, but you also don't capitulate to it. You embrace it.",
+          "context": "Sports Illustrated profile by Lee Jenkins"
+        },
+        {
+          "asset_path": "assets/2016-04_mamba-out-farewell/transcript.md",
+          "quote_or_paraphrase": "Three seasons in a row of having season-ending injuries... to try to climb up that mountain and get knocked down three years in a row... those three years are the thing that sticks the most to me because internally that was the most challenging.",
+          "context": "Farewell press conference after scoring 60 in final game"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "What I always try to do through injuries is not think about them because when the game itself is more significant than the injury, you don't feel the injury. The injury won't get in the way because it's not important to you.",
+          "context": "Muse documentary, Kobe on pain tolerance during the 2012-13 season before the Achilles tear"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "My brain cannot, it cannot process failure. It will not process failure. Because if I have to sit there and have to face myself and tell myself, you're a failure, I think that's almost worse than death.",
+          "context": "Muse documentary, Kobe on his psychological relationship with failure and injury during late career"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "late_career (2013-2016)"
+    },
+    {
+      "id": "INS-005",
+      "theme": "work",
+      "sub_theme": "craft_mastery",
+      "principle": "Mastery comes from making the complex automatic through thousands of repetitions of specific game situations, not generic practice.",
+      "evidence": [
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "That summer I made a thousand shots a day... it weren't just shots, it was shots that you saw in that 81-point game. There were specific shots - coming out of the corner, going to the pinch post, footwork in the post, coming off the screen.",
+          "context": "Kobe explaining the preparation behind the 81-point game at USC"
+        },
+        {
+          "asset_path": "assets/2019-09_knuckleheads-podcast/transcript.md",
+          "quote_or_paraphrase": "The shot that really matters is a pull-up shot... doing that, shooting thousands of times got me so comfortable with the shot that I can shoot that shot anytime. If you shoot a shot a thousand times, I can change the trajectory anytime I want. It's on autopilot.",
+          "context": "Kobe explaining his shot repertoire to Knuckleheads hosts"
+        },
+        {
+          "asset_path": "assets/2018-10_mamba-mentality-book/content.md",
+          "quote_or_paraphrase": "To be a better player, you have to prepare, prepare, and prepare some more.",
+          "context": "Key excerpt from The Mamba Mentality book"
+        },
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "I'm watching Hakeem Olajuwon up close and he's doing his dream shake... Robert kind of went through how he watched Hakeem practice and stuff like that and then the next practice I go right to the post and I start doing a dream shake and mimicking that exact move.",
+          "context": "Graham Bensinger interview, Kobe on learning Hakeem's dream shake by osmosis and asking Robert Horry for details"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "championship_peak (2006-2010)"
+    },
+    {
+      "id": "INS-006",
+      "theme": "social",
+      "sub_theme": "leadership_style",
+      "principle": "True leadership is tactical and specific, not motivational - leaders must give executable adjustments rather than generic encouragement.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "A leader must give very tactical things that we can do, adjustments. 'The defense is doing this that and the other, that means we should probably do this.' It's never 'come on guys we can do better' - that's rah rah stuff.",
+          "context": "Kobe describing leadership philosophy to Lewis Howes"
+        },
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "The key is not passing the ball. The key is how do you motivate them so that they stay in the gym an hour after practice shooting shots... that's making people better, truly better.",
+          "context": "Kobe explaining his view of what 'making teammates better' really means at the Milken Institute"
+        },
+        {
+          "asset_path": "assets/2009-05_kobe-doin-work-pregame/transcript.md",
+          "quote_or_paraphrase": "Detailed discussion of defensive assignments, reading opponent tendencies, and specific tactical adjustments at halftime.",
+          "context": "Real-time commentary during Spike Lee documentary showing Kobe's tactical communication"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "championship_peak (2008-2010)"
+    },
+    {
+      "id": "INS-007",
+      "theme": "social",
+      "sub_theme": "teammate_dynamics",
+      "principle": "Understanding teammates' individual psychology and motivations is more important than raw talent management - each person requires a different approach.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "Hung his Olympic gold medal in Pau Gasol's locker before 2008-09 training camp and said 'Listen Pau, you lost to the Celtics, you lost to us in a gold medal match, let's not make this three in a row.' Drove Pau to a new level of physicality, won back-to-back championships.",
+          "context": "Kobe describing how he motivated Pau Gasol"
+        },
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "With Shaq, I had to challenge Shaq all the time. I'd say 'Phil, put me on the second team' and then tell Shaq 'you're not the most dominant center of all time, you're not even the best player on the team.' Then the physicality of practice goes to another level.",
+          "context": "Kobe describing how he pushed Shaq at the Milken Institute"
+        },
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "Phil would see the friction between myself and Shaquille and say how can I use that... he would create a wedge between myself and Kobe because then that brings me closer to Shaquille. That was his ability to manage the team, which was absolutely brilliant.",
+          "context": "Kobe explaining Phil Jackson's management strategy to Patrick Bet-David"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "three-peat_era (1999-2004)"
+    },
+    {
+      "id": "INS-008",
+      "theme": "social",
+      "sub_theme": "mentorship",
+      "principle": "Actively seeking mentorship across disciplines reveals universal principles that transfer between fields.",
+      "evidence": [
+        {
+          "asset_path": "assets/2017-03_first-take-interview/transcript.md",
+          "quote_or_paraphrase": "Called John Williams for lunch. Williams explained how he composes by starting with individual instruments and tonality, then the grand scheme. Kobe reversed his own approach: 'I started looking at things at the smallest level individually, from my teammates and then to the opposition, and that gave me a greater control over the entire landscape of the game.'",
+          "context": "Kobe explaining how studying John Williams' composing process changed his basketball approach"
+        },
+        {
+          "asset_path": "assets/2019-09_knuckleheads-podcast/transcript.md",
+          "quote_or_paraphrase": "Eddie Jones taught me how to chase guards around screens off the ball - shadow them, trail behind the outside shoulder, body up the hip and slide between. Gary Payton taught me how to get through screens on the ball - move up to the ball handler, make yourself thin, slide through.",
+          "context": "Kobe crediting specific tactical mentors"
+        },
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "In the office hall I have Muse Hall with portraits of JK Rowling, Steve Jobs, and so forth. It's important to research them... there's constant inspiration when you read about them, what they were able to accomplish, how they went about accomplishing it.",
+          "context": "Kobe describing his gallery of inspirational figures"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "cross-era (career through post-retirement)"
+    },
+    {
+      "id": "INS-009",
+      "theme": "life",
+      "sub_theme": "retirement_transition",
+      "principle": "The key to successful career transition is finding what you love doing, not what industry has the biggest upside.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "The first question I asked, which is the wrong question, is 'what's the biggest industry I can get into?' Then I said okay, stop thinking of it that way. Why did you start playing basketball? Because I loved it. What do you love to do? I love to tell stories. And then that's where it started for me.",
+          "context": "Kobe describing his post-retirement pivot"
+        },
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "I kept thinking, asking the wrong question - what's the biggest industry I can get into? Then I started asking what do you like doing, what do you love to do the most? I love storytelling. I absolutely love it.",
+          "context": "Kobe at the Milken Institute describing finding his second calling"
+        },
+        {
+          "asset_path": "assets/2016-10_wsjdlive-business/transcript.md",
+          "quote_or_paraphrase": "Follow your passion first. When I retired from the game and I sat there asking all the wrong questions - what's the biggest industry I can get into - all the wrong stuff. You got to sit there and ask yourself what am I truly passionate about.",
+          "context": "Kobe giving business advice at WSJDLive"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "post-retirement (2016-2020)"
+    },
+    {
+      "id": "INS-010",
+      "theme": "life",
+      "sub_theme": "creative_pursuit",
+      "principle": "Storytelling is the most powerful force for changing the world - nothing moves without story.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "Nothing in this world moves without story. Whether it's an inspirational story or informational one. If we're going to try to make the world a better place, story is the right place to start.",
+          "context": "Kobe explaining his storytelling philosophy to Lewis Howes"
+        },
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "Story is the seed of everything. None of us would be sitting in this room right now without the power of story because somewhere along the lines you either read a story or heard a story that inspired you.",
+          "context": "Kobe at Milken Institute on storytelling"
+        },
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "I started learning about storytelling, writing, how to structure a story, how to put together how to thread together a narrative that has a bigger message, how to create compelling characters.",
+          "context": "Kobe describing his storytelling passion dating to high school"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "post-retirement (2016-2020)"
+    },
+    {
+      "id": "INS-011",
+      "theme": "life",
+      "sub_theme": "fatherhood",
+      "principle": "Parents must lead by example through visible effort, not just words - children learn work ethic by witnessing the process.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "Your kids can't see how hard you work. You go to the office, I come in the studio, they don't really see the effort. So how can we teach our children what it means to work hard? You do it through training. When I get up in the morning, my 15-year-old daughter goes with me at 4am.",
+          "context": "Kobe explaining why he still trains at 4am after retirement"
+        },
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "As a parent you gotta set the example. This is another obstacle, this obstacle cannot define me, it's not going to be responsible for me stepping away from the game that I love. I'm gonna step away on my own terms.",
+          "context": "Kobe on modeling resilience for his children after the Achilles tear"
+        },
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "I started teaching Gianna incrementally - 15 minutes a day, just shot right under the hoop. Do that for a month and a half, then next month step back. Through actionable things is how we teach our children.",
+          "context": "Kobe explaining his approach to coaching his daughter"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "post-retirement (2016-2020)"
+    },
+    {
+      "id": "INS-012",
+      "theme": "social",
+      "sub_theme": "rivalry_as_respect",
+      "principle": "Michael Jordan served as both rival benchmark and big brother mentor - the competitive relationship was built on mutual respect for the craft.",
+      "evidence": [
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "From the second time I played him in 1998, I asked him a couple questions, he gave very detailed responses and said 'send over my number, if you need anything just call.' To this day I call him for anything, he calls me right back. We'll have very in-depth conversations.",
+          "context": "Kobe describing his relationship with Michael Jordan at Milken Institute"
+        },
+        {
+          "asset_path": "assets/2019-09_knuckleheads-podcast/transcript.md",
+          "quote_or_paraphrase": "Mike wouldn't share information with nobody, but he did with me. Why? Because he knows I'm about that life.",
+          "context": "Kobe explaining why Jordan mentored him"
+        },
+        {
+          "asset_path": "assets/2006-01_81-point-game-presser/transcript.md",
+          "quote_or_paraphrase": "Throughout my career I've been compared to him so many times and I just wish they would just stop. He was Michael Jordan, I'm Kobe Bryant. We're two different players.",
+          "context": "Post-81-point-game press conference - deflecting Jordan comparisons"
+        }
+      ],
+      "consistency_score": 4,
+      "era": "cross-era (1998-2020)"
+    },
+    {
+      "id": "INS-013",
+      "theme": "work",
+      "sub_theme": "deliberate_practice",
+      "principle": "Cross-disciplinary training provides unexpected competitive advantages - tap dancing, music study, and writing all improved basketball performance.",
+      "evidence": [
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "I took tap-dancing lessons after rolling my ankle. Tap was the best training for me in the world because it strengthened my feet, it changed my rhythm and my approach to the game. I was able to change speeds when I came back.",
+          "context": "Kobe describing how tap dancing improved his basketball at USC"
+        },
+        {
+          "asset_path": "assets/2017-03_first-take-interview/transcript.md",
+          "quote_or_paraphrase": "After speaking with John Williams about composing music starting from individual instruments, I started looking at things at the smallest level individually - from my teammates and then the opposition. That gave me greater control over the entire landscape of the game.",
+          "context": "Kobe explaining how a composer's method changed his basketball approach"
+        },
+        {
+          "asset_path": "assets/2019-09_knuckleheads-podcast/transcript.md",
+          "quote_or_paraphrase": "Writing raps helped me with similes, metaphors, creative writing, being able to say things in a condensed format. How can you minimize the arc of what you're trying to tell.",
+          "context": "Kobe describing how rap writing helped his communication skills"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "championship_peak (2000-2010)"
+    },
+    {
+      "id": "INS-014",
+      "theme": "social",
+      "sub_theme": "vulnerability",
+      "principle": "Fear and self-doubt are universal and should be unpacked, not denied - the act of examining fear reveals it as manageable.",
+      "evidence": [
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "You think about game-winning free throws and you're nervous... well what are you really nervous about? You unpack it - you're nervous you're gonna miss, people will be embarrassed, they'll talk bad about you. Have you let teammates down before? They're still there. When you unpack it you look at it for what it is, which is really nothing.",
+          "context": "Kobe walking Jay Shetty through his fear-unpacking process"
+        },
+        {
+          "asset_path": "assets/2013-10_si-last-alpha-dog/content.md",
+          "quote_or_paraphrase": "I have self-doubt. I have insecurity. I have fear of failure... We all have self-doubt. You don't deny it, but you also don't capitulate to it. You embrace it.",
+          "context": "Sports Illustrated profile quote"
+        },
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "It's important for athletes to own what they're going through. A lot of times we try to tell young athletes that if you have those thoughts and feelings, that's weakness. Which then causes them to carry that around for the rest of their lives.",
+          "context": "Kobe supporting Kevin Love and DeMar DeRozan's mental health disclosures at USC"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "In the locker room, on the court, around my teammates. I've always tried to be very strong and be invincible. Not be Clark Kent, but be Superman. And then family comes in and now that is home. That's where you can be you. And I just let it go. I couldn't hold on to it anymore.",
+          "context": "Muse documentary, Kobe describing breaking down emotionally in front of his family after the Achilles tear"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "late_career_and_post-retirement (2013-2020)"
+    },
+    {
+      "id": "INS-015",
+      "theme": "life",
+      "sub_theme": "identity_beyond_basketball",
+      "principle": "The Black Mamba alter ego was a deliberate separation tool - allowing Kobe to channel ruthlessness on court while remaining a different person off it.",
+      "evidence": [
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "It's a good separation for me emotionally. For me it's the equivalent of Maximus Decimus Meridius in Gladiator picking up the dirt, smelling dirt. That was my mental switch. Like an actor getting ready for a film - when you're in that cage you are that character.",
+          "context": "Kobe explaining the Black Mamba alter ego to Patrick Bet-David"
+        },
+        {
+          "asset_path": "assets/2016-04_mamba-out-farewell/transcript.md",
+          "quote_or_paraphrase": "I'm both. Just like everybody in this room. We all have a little hero and villain inside of us... when you think about villains, I asked my kids about the bee analogy - it's all a matter of perspective.",
+          "context": "Farewell press conference on the hero/villain duality"
+        },
+        {
+          "asset_path": "assets/2017-03_first-take-interview/transcript.md",
+          "quote_or_paraphrase": "By creating the Black Mamba, what that helped me do was identify when to flip that switch. It gave me something tangible. When I step on the court, this is the mentality. Which is different than Kobe Bryant, a father and husband.",
+          "context": "First Take interview on the alter ego concept"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "I had to separate myself because going through that time, I felt like there were so many things coming at once. It was just becoming very, very confusing. I had to organize things. So I created the Black Mamba. So Kobe has to deal with these issues, all the personal challenges. The Black Mamba steps on the court and does what he does.",
+          "context": "Muse documentary, Kobe describing the origin of the Black Mamba persona during the Colorado case"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "mid-to-late_career (2004-2016)"
+    },
+    {
+      "id": "INS-016",
+      "theme": "life",
+      "sub_theme": "legacy_building",
+      "principle": "True legacy is not about personal accomplishments but about inspiring the next person, who inspires the next, creating something that lasts forever.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "I think the definition of greatness is to inspire the people next to you. It's not something that lives and dies with one person. It's how can you inspire a person to then in turn inspire another person, and that's how you create something that lasts forever.",
+          "context": "Kobe's definition of greatness to Lewis Howes"
+        },
+        {
+          "asset_path": "assets/2017-12_jersey-retirement-speech/transcript.md",
+          "quote_or_paraphrase": "As you get older you come to realize that it's really not about those things. Those things carry a greater significance... it's how well can you affect or impact others through your actions, through your behavior, through your commitment.",
+          "context": "Jersey retirement ceremony"
+        },
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "Granity means greater than infinity. The fundamental belief is create forever. How do you do that? Inspire one who inspires the next, who inspires the next, and on and on you go.",
+          "context": "Kobe explaining the meaning behind Granity Studios at USC"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "post-retirement (2016-2020)"
+    },
+    {
+      "id": "INS-017",
+      "theme": "social",
+      "sub_theme": "leadership_style",
+      "principle": "Phil Jackson's greatest coaching gift was knowing when to speak and when to give space - guiding rather than controlling.",
+      "evidence": [
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "He was very hands-off in the sense of allowing players to find your truth and then go after it. He was there to simply guide you along that journey. That's how I parent and that's how I coach my daughter's team now. He's a father figure because I've learned so much from him.",
+          "context": "Kobe describing Phil Jackson's coaching approach"
+        },
+        {
+          "asset_path": "assets/2010-06_game-7-postgame-2010-finals/transcript.md",
+          "quote_or_paraphrase": "One of Phil's great attributes is that he knows when players need to hear someone and when they don't. And when they don't, he'll give you your space. He knows how bad I wanted this.",
+          "context": "Post Game 7 2010 Finals interview"
+        },
+        {
+          "asset_path": "assets/2016-10_wsjdlive-business/transcript.md",
+          "quote_or_paraphrase": "Phil was able to mentor me and guide me. He didn't try to control. When you see that passion in somebody, you have to let them run, you just try to help guide them along.",
+          "context": "Kobe at WSJDLive applying Phil's coaching philosophy to business"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "cross-era (1999-2020)"
+    },
+    {
+      "id": "INS-018",
+      "theme": "work",
+      "sub_theme": "competitive_obsession",
+      "principle": "Hatred and adversity are fuel, not obstacles - the darkness of being booed and criticized is deliberately channeled into motivation.",
+      "evidence": [
+        {
+          "asset_path": "assets/2016-04_mamba-out-farewell/transcript.md",
+          "quote_or_paraphrase": "The darkness, those dark emotions is what I used to drive me. That isolation is what I grew up comfortable in. I would refuse to allow anything else. Even saying things that create animosity to continue to use that as fuel. If you wanted to beat me, all you had to do is embrace me and I would have been done.",
+          "context": "Farewell press conference"
+        },
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "I was really good at taking negative things and refocusing them. I use those things to help me get up at 4am and hit the track and then hit the weights. No matter what's said, positive or negative, it's going to fuel my passion.",
+          "context": "Kobe at the Milken Institute"
+        },
+        {
+          "asset_path": "assets/2014-08_si-father-time-kobe-inc/content.md",
+          "quote_or_paraphrase": "Bryant rejected the notion of a farewell tour: 'If you booed me for 18, 19 years, boo me for the 20th.'",
+          "context": "Sports Illustrated profile on Kobe Inc."
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "I had all this pent up frustration that I just needed to let out. It was an avalanche, man. There was nothing that was going to get in the way. There was nothing that was going to stop me. This is the battle that's going on within me that I'm carrying with me to this competition.",
+          "context": "Muse documentary, Kobe on channeling personal crisis into the 81-point game and 2006 scoring explosion"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "mid-to-late_career (2004-2016)"
+    },
+    {
+      "id": "INS-019",
+      "theme": "life",
+      "sub_theme": "retirement_transition",
+      "principle": "The Achilles injury was paradoxically a gift - forced confrontation with mortality drove preparation for life after basketball.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "The thing that helped me actually was hurting my Achilles because that forced me to sit there and say okay, the day could be today that your career is over. I said I better get to work.",
+          "context": "Kobe to Lewis Howes on the silver lining of the Achilles injury"
+        },
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "I say fortunate because it gave me a lot of time to think, time to sit, time to say man my career could be over right now and all of this work you've done trying to figure out what comes next, you're unprepared for.",
+          "context": "Milken Institute conversation on injuries as catalysts"
+        },
+        {
+          "asset_path": "assets/2016-10_wsjdlive-business/transcript.md",
+          "quote_or_paraphrase": "When you rupture your Achilles and you're sitting in bed you have a lot of time to think. When it hit me, I wish I had thought about it earlier.",
+          "context": "WSJDLive on the origin of his investment career"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "I remember feeling the silence. I remember feeling the fear. 35 years old, 17, 18 years in the league. This could be a wrap. And that's what the silence was. It was like, this could really be a wrap for you.",
+          "context": "Muse documentary, Kobe's raw emotional recollection of the moment he tore his Achilles"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "late_career (2013-2016)"
+    },
+    {
+      "id": "INS-020",
+      "theme": "social",
+      "sub_theme": "teammate_dynamics",
+      "principle": "The Shaq-Kobe tension was a feature, not a bug - brutal honesty and friction created an environment that drove championships.",
+      "evidence": [
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "We knew that we needed each other to be successful. The tension that we had created an environment of brutal honesty. If I felt like Shaq was completely out of shape, I'd say it. That trickled down throughout our entire organization.",
+          "context": "Milken Institute on the Shaq-Kobe dynamic"
+        },
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "Phil would do whatever it took to make sure that the team won. He would create a wedge between myself and Kobe because then that brings me closer to Shaquille. That was his ability to manage the team, absolutely brilliant.",
+          "context": "Kobe explaining Phil's triangulation strategy"
+        },
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "Now do you look back and say that was good? I'm happy. I have five and he has four.",
+          "context": "Kobe's definitive take on the Shaq split"
+        },
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "I wanted there's things that I wanted to do with my career take my career to another level that I was just incapable of doing as long as we were playing together... once I heard him say a few times that Kobe's not going to be as successful without me... that kind of became the chatter. So now once that became a chatter like oh wait whoa no no no no no.",
+          "context": "Graham Bensinger interview, Kobe explaining why the Shaq split was inevitable once the 'can't win without me' narrative started"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "three-peat_era (1999-2004)"
+    },
+    {
+      "id": "INS-021",
+      "theme": "life",
+      "sub_theme": "creative_pursuit",
+      "principle": "Creativity requires structure - consistent daily routine and disciplined outlining enable spontaneous creative breakthroughs.",
+      "evidence": [
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "Creativity a lot of time comes from structure. When you have those parameters and structure, within that you can be creative. But if you don't have the structure, you're just aimlessly doing stuff.",
+          "context": "Kobe to Jay Shetty on the relationship between structure and creativity"
+        },
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "When I was writing Wizenard series, I come in at 7am writing backstory from 7 to 12, go pick up my kids, then come right back and write again. Within that structure, my mind when I go to sleep is already planning the next day.",
+          "context": "Kobe describing his daily writing routine"
+        },
+        {
+          "asset_path": "assets/2016-10_wsjdlive-business/transcript.md",
+          "quote_or_paraphrase": "The outlining is the most fun part... you have to create the geography, the economics of the world you've created. I thought okay I'm going to write a novel, great, and then two and a half years later I'm still outlining.",
+          "context": "WSJDLive on the depth of creative world-building"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "post-retirement (2016-2020)"
+    },
+    {
+      "id": "INS-022",
+      "theme": "work",
+      "sub_theme": "deliberate_practice",
+      "principle": "Losing is exciting because it reveals specific weaknesses to improve - the process of analysis should be identical whether you win or lose.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "What does losing feel like? It's exciting. Because it means you have different ways to get better. The process should be exactly the same whether you win or you lose - you go back and find things you could have done better.",
+          "context": "Kobe to Lewis Howes on losing"
+        },
+        {
+          "asset_path": "assets/2018-10_mamba-mentality-book/content.md",
+          "quote_or_paraphrase": "In the gym the same time after losing 50 games as he is after winning a championship.",
+          "context": "Key excerpt from The Mamba Mentality book"
+        },
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "Told Katie Lou Samson she had to watch the Notre Dame loss film. 'You can't show up and play them without knowing why you lost... you got to deal with it, face it, learn from it.'",
+          "context": "Kobe advising UConn player Katie Lou Samson"
+        }
+      ],
+      "consistency_score": 4,
+      "era": "cross-era"
+    },
+    {
+      "id": "INS-023",
+      "theme": "life",
+      "sub_theme": "fatherhood",
+      "principle": "Parenthood shifts identity from selfishness to selflessness - and Kobe's storytelling career was born from wanting to create content that didn't exist for his athlete daughters.",
+      "evidence": [
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "When you have children, it becomes about them, not about you guys anymore. That shift is a big one - from a selfishness together to being absolutely selfless. That's why I started this whole thing - reading stories to them that I felt didn't exist.",
+          "context": "Kobe to Jay Shetty on fatherhood as the origin of Granity Studios"
+        },
+        {
+          "asset_path": "assets/2020-01_all-the-smoke-podcast/transcript.md",
+          "quote_or_paraphrase": "The kids can't keep reading stories that have no relation to them... it's all princesses and princes. My kids are athletes, they want to learn about soccer balls and basketballs.",
+          "context": "All The Smoke podcast on creating content for athlete children"
+        },
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "I have four girls. My mission is to make sure women have opportunities they haven't been afforded. That is my next obsession - how do we take an animation industry that lacks in diversity substantially and create better opportunities.",
+          "context": "Kobe on his mission for gender diversity in entertainment"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "post-retirement (2016-2020)"
+    },
+    {
+      "id": "INS-024",
+      "theme": "social",
+      "sub_theme": "vulnerability",
+      "principle": "Meditation and mindfulness directly contributed to championship composure - the ability to stay present under extreme pressure was a trained skill, not a natural gift.",
+      "evidence": [
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "Phil introduced meditation to us in 99. I could see the effects watching Bulls teams - their composure playing in Utah being down 17, everybody was calm. You couldn't tell if they were down 17 or up 20. That's why they were always in the moment, always extremely calm.",
+          "context": "USC talk on meditation practice"
+        },
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "I bought into the meditation, I bought into the deeper connection within the game. When you watch our teams, Game 7 against Boston, we were never rattled. Always in the present, always extremely calm, not letting emotions cloud execution.",
+          "context": "Kobe on meditation to Patrick Bet-David"
+        },
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "For the 81-point game, my knee was hurting so much... my mind was trying to go to a place where I don't feel that pain. I was just in the moment. When you're just there, your focus is heightened because nothing else matters.",
+          "context": "Kobe connecting mindfulness to the 81-point game"
+        }
+      ],
+      "consistency_score": 4,
+      "era": "championship_peak (1999-2010)"
+    },
+    {
+      "id": "INS-025",
+      "theme": "life",
+      "sub_theme": "identity_beyond_basketball",
+      "principle": "The competitive drive transfers completely to new domains - the core competencies of excellence (discipline, detail, team-building) are industry-agnostic.",
+      "evidence": [
+        {
+          "asset_path": "assets/2017-03_first-take-interview/transcript.md",
+          "quote_or_paraphrase": "Everything from my basketball career prepared me. The discipline changes but the commitment, the attention to detail, the core competencies do not change. Only the industry changes. Building a championship team in basketball is the same as building a championship team in business.",
+          "context": "First Take interview on career transition"
+        },
+        {
+          "asset_path": "assets/2020-01_all-the-smoke-podcast/transcript.md",
+          "quote_or_paraphrase": "A lot of the mentality is still the same. The industry just changes. Same focus, same attention to detail. It's even more so now because your brain's constantly working.",
+          "context": "All The Smoke podcast on post-career mentality"
+        },
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "My competitiveness inside was like - no, I'm gonna do something in the next 20 years that is better than these last 20. You might not understand that, but the competitiveness kicks in, same determination.",
+          "context": "Kobe on competitive transfer to Patrick Bet-David"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "post-retirement (2016-2020)"
+    },
+    {
+      "id": "INS-026",
+      "theme": "social",
+      "sub_theme": "leadership_style",
+      "principle": "Empathy toward opponents is a weapon - understanding their psychology reveals which buttons to push to destroy them.",
+      "evidence": [
+        {
+          "asset_path": "assets/2016-10_wsjdlive-business/transcript.md",
+          "quote_or_paraphrase": "When you have empathy towards your opponents it helps you destroy them quicker. You understand if they're insecure, if they fear embarrassment. Example: we would double-team the guy without a max contract and single-cover the max player, then watch the unsigned player complain about not getting the ball, dividing the team.",
+          "context": "WSJDLive on strategic empathy"
+        },
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "Growing up in Italy, I didn't speak Italian, didn't have friends. I had to look long-term. I had to figure out how to mentally break people down, how to show them no, I have the edge.",
+          "context": "Kobe on developing strategic psychology from childhood isolation"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "championship_peak (2008-2010)"
+    },
+    {
+      "id": "INS-027",
+      "theme": "life",
+      "sub_theme": "legacy_building",
+      "principle": "Diversity in storytelling and representation is a moral imperative - children need to see characters that look like them and share their experiences.",
+      "evidence": [
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "We self-publish because a lot of publishers want to publish the same type of story, same plots, not a lot of diverse characters. Our characters are going to look like my daughters because my daughters don't have characters out there that look like them.",
+          "context": "Kobe on self-publishing for representation to Jay Shetty"
+        },
+        {
+          "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+          "quote_or_paraphrase": "I have four girls. My mission is to make sure women have opportunities they haven't been afforded. How do we take an animation industry that substantially lacks in diversity and create more diverse characters, better representation.",
+          "context": "Kobe on diversity mission to Patrick Bet-David"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "post-retirement (2016-2020)"
+    },
+    {
+      "id": "INS-028",
+      "theme": "work",
+      "sub_theme": "competitive_obsession",
+      "principle": "Loyalty to franchise through adversity is harder and more valuable than joining a superteam - you must take the good with the bad.",
+      "evidence": [
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "Jeannie and Rob called me and said we could make a few calls and get you on a contending team. I said what about me makes you think I would jump ship? We don't do that. If you can win championships in front of everybody then you can miss the playoffs in front of everybody.",
+          "context": "Kobe on loyalty to the Lakers at USC"
+        },
+        {
+          "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md",
+          "quote_or_paraphrase": "I didn't stop playing because I didn't feel like I could play at a certain level anymore. I stopped playing because I just didn't want to do it anymore. This must be a decision that comes from within - either you want to play or you don't.",
+          "context": "Milken Institute on retiring on his own terms"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "late_career (2012-2016)"
+    },
+    {
+      "id": "INS-029",
+      "theme": "work",
+      "sub_theme": "detail_orientation",
+      "principle": "The game within the game is 90% invisible - the smallest physical cues (foot placement on pump fakes, body language during timeouts) reveal everything.",
+      "evidence": [
+        {
+          "asset_path": "assets/2017-03_first-take-interview/transcript.md",
+          "quote_or_paraphrase": "If a player pump fakes and the right leg goes behind, who's going to shoot from that position? Nobody. So why would you fall for it? But if they're in this position, now you know that's a real threat. That's the attention to detail we want to put into stories.",
+          "context": "First Take interview demonstrating pump fake reading"
+        },
+        {
+          "asset_path": "assets/2009-05_kobe-doin-work-pregame/transcript.md",
+          "quote_or_paraphrase": "San Antonio is going to beat you with three things. Tim Duncan, Manu Ginobili, Tony Parker. That's their bread and butter. And we lucked out because Manu's not playing.",
+          "context": "Kobe's pregame analysis in Spike Lee documentary"
+        },
+        {
+          "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md",
+          "quote_or_paraphrase": "I was geeking out about the smell of the ball, the way it sounds when it hits concrete versus a parquet floor, the sound of the nets, the different material of the nets.",
+          "context": "Kobe's obsessive sensory relationship with basketball from age 2"
+        }
+      ],
+      "consistency_score": 4,
+      "era": "championship_peak (2000-2010)"
+    },
+    {
+      "id": "INS-030",
+      "theme": "social",
+      "sub_theme": "mentorship",
+      "principle": "Coaching children should be question-based, not directive - let kids figure things out to build ownership of their development process.",
+      "evidence": [
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "When I coach my daughter's team, it's not about giving them answers, it's about asking them questions. During games, I sit down and I'm quiet. My assistant coach sits there, she's quiet. And the kids figure things out for themselves.",
+          "context": "Kobe on coaching philosophy to Jay Shetty"
+        },
+        {
+          "asset_path": "assets/2020-01_all-the-smoke-podcast/transcript.md",
+          "quote_or_paraphrase": "My coaching staff's job is to ask questions and let them figure things out. We'll win a lot more if we micromanage, but we're playing for the long game of them being the best basketball players they can be.",
+          "context": "All The Smoke podcast on coaching approach"
+        },
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "In this day and age our children have become less imaginative about how to problem-solve. Parents and coaches have become more directive - teaching kids how to think versus teaching them how to think.",
+          "context": "Kobe on the crisis in youth development"
+        }
+      ],
+      "consistency_score": 4,
+      "era": "post-retirement (2016-2020)"
+    },
+    {
+      "id": "INS-031",
+      "theme": "life",
+      "sub_theme": "retirement_transition",
+      "principle": "Unconditional parental love provides the foundational security to risk failure in any domain.",
+      "evidence": [
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "My father just gave me a hug and said listen, whether you score zero or score 60, I'm going to love you no matter what. That is the most important thing you can say to a child. From there I was like okay, that gives me all the confidence in the world to fail.",
+          "context": "Kobe's foundational story about his father's unconditional love"
+        },
+        {
+          "asset_path": "assets/2019-09_on-purpose-jay-shetty/transcript.md",
+          "quote_or_paraphrase": "That doesn't just mean basketball. That means anything in life - writing, being an entrepreneur - having the confidence to go for it. I've seen too many parents do the exact opposite and it terrifies children.",
+          "context": "Kobe expanding the unconditional love principle beyond basketball"
+        },
+        {
+          "asset_path": "assets/1996-05_high-school-oral-presentation/transcript.md",
+          "quote_or_paraphrase": "My parents would be the first people to tell me, after a great game with 40 points, 'there's no need for your head to get all big.' And when things are bad, they'd say 'there's another day.'",
+          "context": "17-year-old Kobe's oral presentation on his parents"
+        },
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "I remember my mom wiping my face and telling me... she said remember this, remember this moment. You know, never let anybody tell you what you can or can't do.",
+          "context": "Graham Bensinger interview, Kobe recounting his mother's response when a camp counselor told him to pick a more realistic career"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "cross-era (childhood through post-retirement)"
+    },
+    {
+      "id": "INS-032",
+      "theme": "work",
+      "sub_theme": "craft_mastery",
+      "principle": "Physical strength, not just skill, was the key missing ingredient - the Utah airball moment revealed conditioning as a fundamental requirement.",
+      "evidence": [
+        {
+          "asset_path": "assets/2019-09_knuckleheads-podcast/transcript.md",
+          "quote_or_paraphrase": "The air balls in Utah just showed me I needed strength. In high school you play 30 games max. In the league you're playing 30 before October. The shots were all on line, they were short. I started looking at Mike's physique - strong. That's when I started lifting.",
+          "context": "Kobe to Knuckleheads on the airball turning point"
+        },
+        {
+          "asset_path": "assets/2018-09_school-of-greatness/transcript.md",
+          "quote_or_paraphrase": "I was never physically gifted to an extreme level. I was always really good but never the fastest or biggest or strongest. My edge was I'm not going to go party and I'm not going to drink alcohol.",
+          "context": "Kobe on compensating for physical limitations with discipline"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "early_career (1996-2000)"
+    },
+    {
+      "id": "INS-033",
+      "theme": "life",
+      "sub_theme": "retirement_transition",
+      "principle": "Basketball was not just a sport but a lifelong love affair -- retirement was saying goodbye to a relationship, not a job.",
+      "evidence": [
+        {
+          "asset_path": "assets/2015-11_dear-basketball/content.md",
+          "quote_or_paraphrase": "A love so deep I gave you my all -- From my mind & body To my spirit & soul.",
+          "context": "Dear Basketball retirement poem, Kobe addressing basketball as a beloved entity"
+        },
+        {
+          "asset_path": "assets/2015-11_dear-basketball/content.md",
+          "quote_or_paraphrase": "I played through the sweat and hurt Not because challenge called me But because YOU called me. I did everything for YOU Because that's what you do When someone makes you feel as Alive as you've made me feel.",
+          "context": "Dear Basketball poem, framing basketball as a reciprocal relationship of devotion"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "I love what I do. It's as simple as that. The game has made me a better man, a better husband, a better father, a better friend, a better teacher. It's been my confidant, it's been my best friend, psychiatrist, everything. It's the seed that started everything for me.",
+          "context": "Muse documentary, Kobe on basketball as the foundational relationship of his life"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "late_career (2015-2016)"
+    },
+    {
+      "id": "INS-034",
+      "theme": "life",
+      "sub_theme": "fatherhood",
+      "principle": "The body decides when it is time to let go, not the mind or spirit -- accepting physical limitation is the final act of competitive maturity.",
+      "evidence": [
+        {
+          "asset_path": "assets/2015-11_dear-basketball/content.md",
+          "quote_or_paraphrase": "My heart can take the pounding My mind can handle the grind But my body knows it's time to say goodbye. And that's OK. I'm ready to let you go.",
+          "context": "Dear Basketball poem, the three-part test for knowing when to retire"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "At what point do you feel like you're holding on, holding on, holding on to something that's not there? Where at what point is your determination and your drive become unreasonable or something that's just not possible?",
+          "context": "Muse documentary, Kobe wrestling with the question of when determination becomes delusion"
+        }
+      ],
+      "consistency_score": 4,
+      "era": "late_career (2015-2016)"
+    },
+    {
+      "id": "INS-035",
+      "theme": "life",
+      "sub_theme": "identity_beyond_basketball",
+      "principle": "Childhood isolation and constant relocation created an identity anchored in basketball rather than place, language, or social belonging.",
+      "evidence": [
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "You move into a place where you don't speak the language at all. You have friends there, and after two years, you bounce to another city. Now you have to start again, and then two years later repeats itself. Two years later, that repeats itself. Now you really don't know anybody, and you have to figure things out all over again.",
+          "context": "Muse documentary, Kobe on the instability of his Italian childhood"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "I always had my ball. So I could always pick up my basketball, I could always hop on my bike, I could always go to the park, and I could always shoot. And that gave me a great source of comfort.",
+          "context": "Muse documentary, basketball as the only constant across four Italian cities"
+        },
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "We didn't live in any major cities so I think we got the authenticity of Italy... mothers making lasagna from scratch and everybody kind of knowing everybody... it was almost as if we lived in a typical Italian movie.",
+          "context": "Graham Bensinger interview, Kobe recalling the authentic Italian small-town childhood that shaped him"
+        }
+      ],
+      "consistency_score": 5,
+      "era": "childhood (1984-1991)"
+    },
+    {
+      "id": "INS-036",
+      "theme": "work",
+      "sub_theme": "competitive_obsession",
+      "principle": "Anger and resentment from personal adversity can be deliberately channeled into athletic performance -- rage as a competitive resource, not a liability.",
+      "evidence": [
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "I was sitting at a lunch table all by myself, no friends. And I was upset that I had moved. And I had all this resentment and anger inside of me... I'm just going to push it to the side and then use it to my benefit for what it is that I love doing. And once I discovered that, everything about the game changed. That feeling of playing with that rage was new to me, but I fucking loved it.",
+          "context": "Muse documentary, 13-year-old Kobe discovering rage as fuel after returning to America from Italy"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "Using the darker emotions, the anger or resentment or frustration and sadness, and using that as a weapon, using that as a form of offense. It's a scar. It's pain. It's a bad memory. Some people are probably afraid to tap into that side of them, but it's such a powerful thing.",
+          "context": "Muse documentary, Kobe on teaching his 2009 championship team to use dark emotions as fuel"
+        }
+      ],
+      "consistency_score": 4,
+      "era": "cross-era (age 13 through championships)"
+    },
+    {
+      "id": "INS-037",
+      "theme": "life",
+      "sub_theme": "fatherhood",
+      "principle": "As a parent, you must model bravery in crisis even when you do not believe in yourself -- children need to see resilience, not hear about it.",
+      "evidence": [
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "As a parent, the first thing that comes to your mind is when you see your kids afraid, you want them to not be afraid. You want to give them strength. You want to give them courage. And the only way I could reassure them is by telling them, hey, daddy's okay. It's gonna be all right. Even at the time I didn't believe in myself, I felt like it was important to say that to them.",
+          "context": "Muse documentary, Kobe describing reassuring his daughters after the Achilles tear when he himself was terrified"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "As a parent, you can't just talk the talk. You gotta walk the walk. And you gotta be brave in these type of situations, if not for yourself, then for your kids.",
+          "context": "Muse documentary, Kobe on parental duty during personal crisis"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "late_career (2013-2016)"
+    },
+    {
+      "id": "INS-038",
+      "theme": "life",
+      "sub_theme": "identity_beyond_basketball",
+      "principle": "Personal failure and moral crisis can destroy a family or forge a deeper bond -- the choice to stay and rebuild is harder than leaving.",
+      "evidence": [
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "I'd wake up in the morning and not know if today is the day where I lose my family. Is this the day where it's a wrap? She said during that time, I hated your guts, but it wasn't about you. It was about Natalia. She didn't want her growing up in a broken home.",
+          "context": "Muse documentary, Kobe on the 2003 crisis and Vanessa's decision to stay for their daughter"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "It's a man's job to protect your family. It's a man's job to look out for your family. It's a man's job to always be the anchor of stability for the family. And in that aspect, I failed miserably.",
+          "context": "Muse documentary, Kobe's raw admission of failure as a husband and father during the Colorado case"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "mid-career (2003-2004)"
+    },
+    {
+      "id": "INS-039",
+      "theme": "work",
+      "sub_theme": "craft_mastery",
+      "principle": "The ability to instantly absorb and replicate moves comes from a lifetime of physical vocabulary -- muscle memory built from age 2 allows osmotic learning that looks like genius.",
+      "evidence": [
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "Why do you think you were able to pick it up so quickly? Because I've been playing since I was two... just by osmosis you pick up so many things and your muscle memory is that you can watch something and just go out right away and do it.",
+          "context": "Graham Bensinger interview, Kobe explaining why he could replicate Hakeem's dream shake immediately"
+        },
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "Notable moments from your career: 8 years old in a game, 63 points. I figured out that most kids that are right-handed can't go left. So I just sit on their right hand. I got steal after steal.",
+          "context": "Graham Bensinger interview, Kobe scoring 63 points at age 8 through tactical observation"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "cross-era (childhood through career)"
+    },
+    {
+      "id": "INS-040",
+      "theme": "social",
+      "sub_theme": "teammate_dynamics",
+      "principle": "The Redeem Team's success was built on ego subordination -- the greatest individual talents committed to collective identity when the mission demanded it.",
+      "evidence": [
+        {
+          "asset_path": "assets/2008-08_redeem-team-olympics/content.md",
+          "quote_or_paraphrase": "Colangelo was playing a bit of a joke on Bryant when he told him that he wanted him to be a distributor on the team. Bryant didn't push back, telling Colangelo he'd play whatever role was required.",
+          "context": "AP News article on the Redeem Team, Kobe accepting a role player designation for the Olympic team"
+        },
+        {
+          "asset_path": "assets/2008-08_redeem-team-olympics/content.md",
+          "quote_or_paraphrase": "Bosh has detailed how he wanted to set the example of being a hard-worker right when camp started. He set his alarm for an early hour. Bryant had already gone through a full workout and was at breakfast when Bosh arrived, soaked in sweat. 'That set the tone.'",
+          "context": "AP News article, Chris Bosh's famous story about Kobe setting the work ethic standard at Olympic camp"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "championship_peak (2008)"
+    },
+    {
+      "id": "INS-041",
+      "theme": "work",
+      "sub_theme": "deliberate_practice",
+      "principle": "After public failure, the immediate response must be relentless repetition -- not reflection or rest, but physical work to process the emotional weight.",
+      "evidence": [
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "We flew back to LA that night. And I got home. It was probably like three in the morning. And I went down to the high school. And the janitor let me in the gym. And I shot all day. All day. I mean all day. And I didn't leave the gym. I just kept shooting and shooting and shooting.",
+          "context": "Muse documentary, Kobe going to the gym at 3am after the Utah air-ball playoff loss"
+        },
+        {
+          "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md",
+          "quote_or_paraphrase": "I got a chance to let out the steam of disappointing my teammates and millions of fans. I got a chance to let all that out instead of bottling it up. And envision that moment over and over and over.",
+          "context": "Muse documentary, shooting as emotional processing after the air-ball game"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "early_career (1997)"
+    },
+    {
+      "id": "INS-042",
+      "theme": "social",
+      "sub_theme": "vulnerability",
+      "principle": "The zone state is characterized by desperate calm -- a paradoxical combination of nothing mattering except the present moment and an underlying sense of total focus.",
+      "evidence": [
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "It's such a sense of calmness and focus and almost a sense of desperation where nothing else matters. Nobody talking to you, not a fan sitting over here, nothing is relevant. The only thing that's important is the moment that you're in.",
+          "context": "Graham Bensinger interview, Kobe describing the zone state during the 81-point game"
+        },
+        {
+          "asset_path": "assets/2012-09_graham-bensinger-in-depth/transcript.md",
+          "quote_or_paraphrase": "You know you're in the zone but you can't afford to allow yourself to know you're in the zone because once you do then you lose it. Being in that moment it's all about being in that moment and not letting anything else enter into your mind.",
+          "context": "Graham Bensinger interview, the paradox of awareness of the zone destroying the zone"
+        }
+      ],
+      "consistency_score": 3,
+      "era": "championship_peak (2006)"
+    }
+  ],
+  "tentative": [
+    {
+      "id": "TENT-001",
+      "note": "Only mentioned in the Valuetainment interview - specific pregame ritual detail",
+      "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+      "claim": "Kobe played the Halloween (Michael Myers) theme song on repeat in his headphones before key games as a psychological trigger for emotional void - choosing it specifically because the mask represents the absence of emotion."
+    },
+    {
+      "id": "TENT-002",
+      "note": "Only elaborated in the SI Last Alpha Dog article",
+      "asset_path": "assets/2013-10_si-last-alpha-dog/content.md",
+      "claim": "A karate lesson at age 4 where young Kobe was knocked down repeatedly but kept getting back up was described as a formative moment that shaped his mentality - one of the earliest origins of the 'never stay down' philosophy."
+    },
+    {
+      "id": "TENT-003",
+      "note": "Only mentioned in the Valuetainment interview in detail",
+      "asset_path": "assets/2019-10_valuetainment-interview/transcript.md",
+      "claim": "Phil Jackson deliberately created friction between Kobe and himself to draw closer to Shaq as a management tactic. Kobe says he confronted Phil directly: 'I know what you're doing bro, don't insult my intelligence.' Phil admitted it."
+    },
+    {
+      "id": "TENT-004",
+      "note": "Only mentioned in the Anna Faris Unqualified podcast context and WSJDLive",
+      "asset_path": "assets/2016-10_wsjdlive-business/transcript.md",
+      "claim": "Kobe deliberately used empathy toward opponents as an offensive weapon - identifying unsigned free agents on opposing teams and doubling them to create internal friction with their max-contract teammates."
+    },
+    {
+      "id": "TENT-005",
+      "note": "Only mentioned in the Knuckleheads podcast",
+      "asset_path": "assets/2019-09_knuckleheads-podcast/transcript.md",
+      "claim": "Kobe started thinking about post-career writing at age 20 and practiced writing (including rap lyrics) throughout his career as preparation for his storytelling second act, viewing it as skills training for similes, metaphors, and condensed narrative."
+    },
+    {
+      "id": "TENT-006",
+      "note": "Elaborated in the First Take interview; Dear Basketball poem now extracted confirms the creative output but not the shower origin detail specifically",
+      "asset_path": "assets/2017-03_first-take-interview/transcript.md",
+      "claim": "90% of Kobe's creative ideas came to him in the shower. He described this as the origin point for Dear Basketball, the Muse film, and multiple story concepts. He didn't keep a notepad nearby - instead he focused on identifying the core purpose of each piece first."
+    },
+    {
+      "id": "TENT-007",
+      "note": "Only referenced in SI Father Time article",
+      "asset_path": "assets/2014-08_si-father-time-kobe-inc/content.md",
+      "claim": "Kobe's business inspiration came from studying Michael Jackson's creative process: 'I was always fascinated by how Michael Jackson could take something to its absolute peak, and then immediately start working on the next thing.'"
+    }
+  ],
+  "contradictions": [
+    {
+      "id": "CON-001",
+      "topic": "Empathy and compassion toward teammates",
+      "early_position": {
+        "era": "1996-2008",
+        "stance": "Kobe was openly dismissive of teammates' personal struggles, demanding they compartmentalize everything and perform. He admitted he could not understand how teammates let personal issues affect their play because 'nothing bothered me' personally.",
+        "asset_path": "assets/2018-09_school-of-greatness/transcript.md"
+      },
+      "later_position": {
+        "era": "2009-2016",
+        "stance": "After losing to the Celtics in 2008, Kobe made a conscious effort to understand teammates' backstories and emotions. He learned that empathy doesn't mean going softer - it means understanding which buttons to push to unlock each person's potential. He called this the skill he wished he had learned earliest.",
+        "asset_path": "assets/2016-08_usc-mamba-mentality/transcript.md"
+      },
+      "interpretation": "The 2008 Finals loss was the catalytic failure. Kobe realized that his inability to emotionally connect with teammates directly cost them a championship. The evolution was pragmatic, not sentimental - empathy became another tool in his leadership arsenal. He told multiple interviewers that if he had developed empathy earlier, he could have been even more dominant, not less."
+    },
+    {
+      "id": "CON-002",
+      "topic": "Relationship with being loved vs. being hated by the public",
+      "early_position": {
+        "era": "1998-2015",
+        "stance": "Kobe deliberately cultivated villain status, using boos and hatred as fuel. He said embrace would have been 'Kryptonite' and even provoked animosity on purpose to maintain his motivational edge. The darkness was his comfort zone.",
+        "asset_path": "assets/2016-04_mamba-out-farewell/transcript.md"
+      },
+      "later_position": {
+        "era": "2015-2016",
+        "stance": "During his farewell tour, Kobe was genuinely moved by the outpouring of love, especially in Philadelphia. He admitted the reception was 'unexpected' and he was 'uncomfortable' being embraced, not quite knowing how to wave or respond. He acknowledged being 'both' hero and villain.",
+        "asset_path": "assets/2016-04_mamba-out-farewell/transcript.md"
+      },
+      "interpretation": "This represents a genuine softening rather than a strategic pivot. The farewell year forced Kobe to receive love publicly for the first time, and by his own admission he struggled with it. The hero/villain duality was always present; what changed was his willingness to let the heroic, warm side be visible publicly rather than reserving it exclusively for family."
+    },
+    {
+      "id": "CON-003",
+      "topic": "Whether basketball sacrifice was a sacrifice at all",
+      "early_position": {
+        "era": "1996-2016",
+        "stance": "Kobe consistently and firmly rejected the idea that his obsessive dedication was a sacrifice. At the Milken Institute he compared basketball to ice cream vs. broccoli: 'To me the game is the ice cream. To some people on the outside all this hard work looks like broccoli. It's all perspective.' He said he made a 'conscious choice' to pursue his passion obsessively.",
+        "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md"
+      },
+      "later_position": {
+        "era": "2018-2020",
+        "stance": "After retirement, Kobe expressed regret about missing his daughters' early years. He said being with his family 'brings me the most joy right now' and that he was experiencing things he 'couldn't do' because of training and season. He said watching Bianca grow up made up for 'things that I missed with Natalia and Gianna because I was playing.'",
+        "asset_path": "assets/2018-09_school-of-greatness/transcript.md"
+      },
+      "interpretation": "While playing, Kobe needed the 'no sacrifice' framing to maintain his psychological edge - any acknowledgment of cost would have introduced doubt. After retirement, the emotional reality surfaced: there were genuine costs to his children that he couldn't see (or wouldn't let himself see) while competing. The contradiction is not dishonesty but a necessary psychological survival mechanism during his playing years."
+    },
+    {
+      "id": "CON-004",
+      "topic": "Self-reliance vs. trust in teammates",
+      "early_position": {
+        "era": "1996-2003",
+        "stance": "Kobe grew up in Italy relying only on himself, and this translated directly to basketball where he was 'much more comfortable relying on myself to shoot through a double team than passing to somebody else.' He drove toward the basket instead of trusting teammates, which led to the 'selfish' label.",
+        "asset_path": "assets/2016-10_wsjdlive-business/transcript.md"
+      },
+      "later_position": {
+        "era": "2008-2016",
+        "stance": "Kobe described his 2009 leadership evolution using a sun/nature metaphor from a vacation in France: 'The sun also knows when to disappear. Too much of the sun becomes hazardous.' He learned that true leadership meant helping teammates shine independently, stepping back so Pau and Lamar could grow on their own.",
+        "asset_path": "assets/2017-05_milken-institute-conversation/transcript.md"
+      },
+      "interpretation": "This was the central arc of Kobe's basketball career. The turning point was a combination of the 2004 Pistons loss (where he recognized the team wasn't prepared because of his approach), Shaq's departure (forcing him to build trust with new teammates), and the 2008 Celtics loss (proving that pure individual dominance couldn't win championships). His Italian childhood isolation created the self-reliance that made him great, but it also created the barrier he had to overcome to become a champion leader."
+    },
+    {
+      "id": "CON-005",
+      "topic": "Jordan comparisons - deflection vs. pursuit",
+      "early_position": {
+        "era": "2006",
+        "stance": "After the 81-point game, Kobe explicitly rejected Jordan comparisons: 'I just wish they would just stop. He was Michael Jordan, I'm Kobe Bryant. We're two different players... it's not fair for us as a younger generation to constantly be compared to such greatness.'",
+        "asset_path": "assets/2006-01_81-point-game-presser/transcript.md"
+      },
+      "later_position": {
+        "era": "2019",
+        "stance": "Kobe openly described studying Jordan's physique, calling him for advice, consciously modeling aspects of his game after Jordan's, and being motivated by the challenge 'you can't win without Shaq.' He maintained a competitive but brotherly relationship where Jordan was a direct mentor and benchmark.",
+        "asset_path": "assets/2019-09_knuckleheads-podcast/transcript.md"
+      },
+      "interpretation": "The public deflection of Jordan comparisons was strategic media management - Kobe didn't want to be diminished by an unwinnable debate. Privately, he absolutely measured himself against Jordan and used MJ as both a blueprint and a benchmark. The 'stop comparing' stance was protective; the actual pursuit of Jordan's standard was the driving force of his career."
+    },
+    {
+      "id": "CON-006",
+      "topic": "Invincibility vs. vulnerability - Superman facade vs. the man underneath",
+      "early_position": {
+        "era": "1996-2013",
+        "stance": "Kobe maintained a Superman persona around teammates, coaches, and the public. He described this as deliberate: 'In the locker room, on the court, around my teammates. I've always tried to be very strong and be invincible. Not be Clark Kent, but be Superman.' This extended to playing through injuries without visible pain and never showing emotional weakness in professional settings.",
+        "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md"
+      },
+      "later_position": {
+        "era": "2013-2016",
+        "stance": "The Achilles tear cracked the facade. When his family walked into the locker room, 'I just let it go. I couldn't hold on to it anymore.' In the Muse documentary, Kobe openly discussed the miscarriage during the Colorado crisis, saying 'the reality is it happened because of me. That's something I got to carry forever.' The Dear Basketball poem was itself an act of public vulnerability unprecedented in his career.",
+        "asset_path": "assets/2015-12_muse-childhood-italy/transcript.md"
+      },
+      "interpretation": "The Muse documentary (2015) represents the first sustained public vulnerability from Kobe. The Superman persona was psychologically necessary during his playing years but also prevented genuine emotional processing. The late-career injuries, combined with approaching retirement, created conditions where the facade could safely come down. Dear Basketball - a love letter written in verse - would have been unthinkable from the Kobe of 2004."
+    }
+  ]
+}

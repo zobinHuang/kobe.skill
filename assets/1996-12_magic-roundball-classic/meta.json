@@ -1,0 +1,15 @@
+{
+  "title": "Postgame interview from the 1996 Magic Roundball Classic",
+  "date": "1996-12",
+  "source": "Local Broadcast",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=gczagbYOTRg",
+  "interviewer": "N/A",
+  "themes": [
+    "work"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}

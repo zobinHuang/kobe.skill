@@ -1,0 +1,119 @@
+---
+title: "Kobe Bryant on Kids Ignoring His Advice"
+date: 2017-04
+source: "The Tonight Show Starring Jimmy Fallon"
+type: video_interview
+url: "https://www.youtube.com/watch?v=0zJh2FMTaDE"
+extraction_method: whisper
+transcript_quality: whisper-medium
+---
+
+You have three little girls now?
+Yeah, three little girls.
+14?
+14, 10, and four months.
+Four months.
+Yes.
+Oh, my gosh.
+We're both in a team no sleep right now.
+Yeah, no sleep.
+Absolutely.
+But all girls, too.
+There's no male figures in the house besides you?
+Nope.
+A dog?
+A pet?
+Anything?
+Well, there's one dog, but he's a dwarf lab, so...
+He doesn't have much say-so in the house, I guess.
+I got to say, no.
+Do you get to control the TV, or that's gone?
+No.
+No, I think I do, until they actually come in a room and it's gone.
+Yeah.
+What are you watching now?
+Like, Team Nick and stuff?
+Yeah, well, you know, we're big on Disney, man, so like one of our favorite shows, Stuck
+in the Middle, we'll watch that all day long.
+Yeah, yeah, yeah.
+I watch that, too.
+It's just always on.
+We were singing the songs and stuff.
+We were all around singing and dancing.
+I'm happy we're...
+And I'm not saying it's bad at all, but I'm so happy I'm over Dora the Explorer.
+I love her.
+I love Backpack.
+I love the whole thing.
+Let's go.
+Jump in.
+No, no, no, please.
+No, no.
+I'm never going to get it out of my head.
+Oh, come on.
+Everybody knows the song.
+But like, I'm the map.
+I'm the map.
+I'm the map.
+Go, stop.
+Oh, my God, we get it.
+You're the map.
+Yeah, exactly.
+The base map.
+Just tell me where to go.
+Oh, just please tell me where to go.
+Mountain stream castle.
+Okay, we'll do it.
+Let's go.
+Let's go.
+Vamanos.
+Vamanos.
+Gosh, I'm so happy I'm over that.
+I love that you're always trying new things now.
+You're doing always new stuff.
+I don't think that you're retired in my brain
+because you're so young and I think you're still
+the best basketball player out there right now.
+But I mean, I think you can...
+Can we work together with the help of your fans?
+Can we work on a deal and get you back
+for like 10 games a year?
+Just do the playoff.
+Just come in, do the playoff, leave,
+and then win a championship.
+Just know.
+No, I stopped at 60, dude.
+That's it.
+That's it, right?
+Do you ever watch the games back and go,
+oh, I could probably do that one?
+No, you know, I watched through the lens of my daughter, man.
+She loves playing basketball.
+So when we watch basketball, we'll watch it together
+and that sort of thing.
+With both of our daughters,
+Natalia and Gianna, when they started playing,
+you know, I'm like, all right, maybe you should
+like shoot like this a little bit.
+And they're like, no, I got this.
+I'm like, dude, I'm me.
+Seriously?
+Seriously?
+There's like a little break in the action.
+I'm like, hey, Miha, Miha.
+Yeah, let me talk.
+Come here, come here.
+Hey, when you get the rebound, you should do this.
+And she's like, but the coach said, I'm like, oh, God.
+God, what am I doing here?
+Shut up, Dad.
+You don't know nothing.
+Get out of here.
+You don't know anything.
+Just wait for me in the car.
+God.
+Tiger Dad, Tiger Dad, Tiger Dad.
+Tiger Dad, Tiger Dad.
+No, no, no, not me.
+I didn't do it.
+I didn't do it.

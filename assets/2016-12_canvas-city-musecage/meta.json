@@ -1,0 +1,16 @@
+{
+  "title": "Canvas City: Musecage Discussion",
+  "date": "2016-12",
+  "source": "ESPN",
+  "type": "video_interview",
+  "url": "https://www.youtube.com/watch?v=w6_5t9tMa3Q",
+  "interviewer": "N/A",
+  "themes": [
+    "work",
+    "mentality"
+  ],
+  "extraction_method": "yt-dlp_auto_sub",
+  "transcript_quality": "auto-generated",
+  "extraction_status": "success",
+  "failure_reason": null
+}
